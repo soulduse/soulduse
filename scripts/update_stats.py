@@ -157,11 +157,17 @@ def main() -> None:
     total_commits = fetch_total_commits(user["createdAt"])
     additions, deletions = fetch_loc(repos)
 
+    prev = json.loads(STATS_PATH.read_text()) if STATS_PATH.exists() else {}
+    repos_total = len(repos)
+    if not os.environ.get("ACCESS_TOKEN") and prev.get("repos_total", 0) > repos_total:
+        # 기본 GITHUB_TOKEN은 공개 저장소만 보인다 — 비공개 포함 마지막 전체 집계 유지
+        repos_total = prev["repos_total"]
+
     stats = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "created_at": user["createdAt"],
         "followers": user["followers"]["totalCount"],
-        "repos_total": len(repos),
+        "repos_total": repos_total,
         "repos_public": sum(1 for r in repos if not r["isPrivate"]),
         "stars": sum(r["stargazerCount"] for r in repos),
         "commits": total_commits,
