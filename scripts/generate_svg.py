@@ -1,6 +1,9 @@
 """ascii_art.json + stats.json → profile-dark.svg / profile-light.svg 생성.
 
-neofetch 스타일 카드: 좌측 컬러 ASCII 아바타, 우측 시스템 정보 패널.
+neofetch 스타일 카드: 좌측 터미널 아트 아바타, 우측 시스템 정보 패널.
+아트는 ascii_art.json의 style 필드에 따라 두 방식으로 렌더링한다:
+  - ascii:     밀도 램프 문자 + 지배색
+  - halfblock: ▀▄█ 블록 문자로 셀당 상/하 2픽셀 (원본 픽셀아트에 근접)
 모든 tspan에 x/textLength를 명시해 폰트 메트릭과 무관하게 컬럼을 고정한다.
 """
 import json
@@ -14,12 +17,15 @@ STATS_PATH = ROOT / "stats.json"
 
 # ── 레이아웃 상수 ──────────────────────────────────────────
 PAD = 30
-ART_FONT, ART_CW, ART_LH = 11, 6.6, 13.0
+ART_CW = 6.6
+ASCII_FONT, ASCII_LH = 11, 13.0
+BLOCK_FONT, BLOCK_LH = 13.4, 13.2  # 블록 글리프가 행을 빈틈없이 채우도록 LH≈2×CW
 PANEL_FONT, PANEL_CW, PANEL_LH = 13, 7.8, 20.0
 PANEL_COLS = 58
-GAP = 34  # ASCII ↔ 패널 간격
+GAP = 34  # 아트 ↔ 패널 간격
 
-FONT_STACK = "'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
+# 블록 문자(U+2580/2584/2588) 커버리지가 확실한 폰트 우선
+FONT_STACK = "Menlo,Consolas,'DejaVu Sans Mono','SFMono-Regular','Liberation Mono',monospace"
 
 THEMES = {
     "dark": {
@@ -37,16 +43,23 @@ THEMES = {
 }
 
 
-def adjust_color(hex_color: str, theme: str) -> str:
-    """ASCII 아트 색상을 테마 배경에서 보이도록 보정."""
+def adjust_color(hex_color: str, theme: str, style: str) -> str:
+    """아트 색상을 테마 배경에서 보이도록 보정. 블록은 면이 넓어 보정을 최소화."""
     r, g, b = (int(hex_color[i : i + 2], 16) for i in (1, 3, 5))
     lum = 0.2126 * r + 0.7152 * g + 0.0722 * b
-    if theme == "dark":  # 다크 배경: 전체 밝기 부스트 + 극암부 바닥값
-        scale = max(1.35, min(2.4, 65 / max(lum, 1)))
-        r, g, b = (min(255, int(c * scale)) for c in (r, g, b))
-    else:  # 흰 배경: 밝은 색일수록 강하게 다크닝(암부는 거의 유지)
-        scale = 0.85 - 0.38 * (lum / 255)
-        r, g, b = (int(c * scale) for c in (r, g, b))
+    if style == "halfblock":
+        if theme == "dark" and lum < 35:  # 카드 배경(#0d1117)에 묻히는 극암부만 살짝
+            scale = 35 / max(lum, 1)
+            r, g, b = (min(255, int(c * scale)) for c in (r, g, b))
+        elif theme == "light" and lum > 215:  # 흰 배경에서 사라지는 극명부만 살짝
+            r, g, b = (int(c * 0.88) for c in (r, g, b))
+    else:
+        if theme == "dark":  # 가는 획이라 강하게: 전체 부스트 + 극암부 바닥값
+            scale = max(1.35, min(2.4, 65 / max(lum, 1)))
+            r, g, b = (min(255, int(c * scale)) for c in (r, g, b))
+        else:
+            scale = 0.85 - 0.38 * (lum / 255)
+            r, g, b = (int(c * scale) for c in (r, g, b))
     return f"#{r:02x}{g:02x}{b:02x}"
 
 
@@ -122,13 +135,67 @@ def build_panel(stats: dict) -> list[list[tuple[str, str]]]:
     return lines
 
 
-# ── SVG 렌더링 ─────────────────────────────────────────────
+# ── 아트 렌더링 ────────────────────────────────────────────
+def tspan(x: float, text: str, fill: str) -> str:
+    return (
+        f'<tspan x="{x:.1f}" fill="{fill}" '
+        f'textLength="{len(text) * ART_CW:.1f}" '
+        f'lengthAdjust="spacingAndGlyphs">{escape(text)}</tspan>'
+    )
+
+
+def render_ascii_art(art: dict, theme: str, art_x: float, art_top: float) -> list[str]:
+    parts = [f'<g font-family="{FONT_STACK}" font-size="{ASCII_FONT}">']
+    for row_idx, runs in enumerate(art["rows"]):
+        y = art_top + row_idx * ASCII_LH + ASCII_FONT
+        col = 0
+        spans = []
+        for text, color in runs:
+            if color is not None:
+                spans.append(tspan(art_x + col * ART_CW, text, adjust_color(color, theme, "ascii")))
+            col += len(text)
+        if spans:
+            parts.append(f'<text y="{y:.1f}">{"".join(spans)}</text>')
+    parts.append("</g>")
+    return parts
+
+
+def render_halfblock_art(art: dict, theme: str, art_x: float, art_top: float) -> list[str]:
+    """RLE 셀 [count, top, bottom] — top=bottom이면 █ 하나, 아니면 ▀+▄ 겹쳐 그리기."""
+    parts = [f'<g font-family="{FONT_STACK}" font-size="{BLOCK_FONT}">']
+    for row_idx, runs in enumerate(art["rows"]):
+        # 블록 글리프는 em 박스를 채우므로 baseline = 행 상단 + ascent(≈0.8em)
+        y = art_top + row_idx * BLOCK_LH + BLOCK_FONT * 0.8
+        col = 0
+        spans = []
+        for count, top, bottom in runs:
+            x = art_x + col * ART_CW
+            if top and bottom:
+                if top == bottom:
+                    spans.append(tspan(x, "█" * count, adjust_color(top, theme, "halfblock")))
+                else:
+                    spans.append(tspan(x, "▀" * count, adjust_color(top, theme, "halfblock")))
+                    spans.append(tspan(x, "▄" * count, adjust_color(bottom, theme, "halfblock")))
+            elif top:
+                spans.append(tspan(x, "▀" * count, adjust_color(top, theme, "halfblock")))
+            elif bottom:
+                spans.append(tspan(x, "▄" * count, adjust_color(bottom, theme, "halfblock")))
+            col += count
+        if spans:
+            parts.append(f'<text y="{y:.1f}">{"".join(spans)}</text>')
+    parts.append("</g>")
+    return parts
+
+
+# ── SVG 조립 ───────────────────────────────────────────────
 def render(theme: str, art: dict, stats: dict) -> str:
     colors = THEMES[theme]
     panel = build_panel(stats)
+    style = art.get("style", "ascii")
+    art_lh = BLOCK_LH if style == "halfblock" else ASCII_LH
 
     art_w = art["cols"] * ART_CW
-    art_h = len(art["rows"]) * ART_LH
+    art_h = len(art["rows"]) * art_lh
     panel_w = PANEL_COLS * PANEL_CW
     panel_h = len(panel) * PANEL_LH
     width = int(PAD + art_w + GAP + panel_w + PAD)
@@ -142,28 +209,13 @@ def render(theme: str, art: dict, stats: dict) -> str:
         f'fill="{colors["bg"]}" stroke="{colors["border"]}"/>',
     ]
 
-    # 좌측 ASCII 아트 (세로 중앙 정렬)
     art_x = PAD
-    art_y = (height - art_h) / 2 + ART_FONT
-    parts.append(f'<g font-family="{FONT_STACK}" font-size="{ART_FONT}">')
-    for row_idx, runs in enumerate(art["rows"]):
-        y = art_y + row_idx * ART_LH
-        col = 0
-        spans = []
-        for text, color in runs:
-            if color is not None:
-                x = art_x + col * ART_CW
-                spans.append(
-                    f'<tspan x="{x:.1f}" fill="{adjust_color(color, theme)}" '
-                    f'textLength="{len(text) * ART_CW:.1f}" '
-                    f'lengthAdjust="spacingAndGlyphs">{escape(text)}</tspan>'
-                )
-            col += len(text)
-        if spans:
-            parts.append(f'<text y="{y:.1f}">{"".join(spans)}</text>')
-    parts.append("</g>")
+    art_top = (height - art_h) / 2
+    if style == "halfblock":
+        parts.extend(render_halfblock_art(art, theme, art_x, art_top))
+    else:
+        parts.extend(render_ascii_art(art, theme, art_x, art_top))
 
-    # 우측 정보 패널 (세로 중앙 정렬)
     panel_x = PAD + art_w + GAP
     panel_y = (height - panel_h) / 2 + PANEL_FONT
     parts.append(f'<g font-family="{FONT_STACK}" font-size="{PANEL_FONT}">')
