@@ -1,0 +1,43 @@
+# 매일 프로필 카드의 GitHub 통계(커밋·스타·팔로워·LOC)를 갱신한다.
+#
+# 기본 GITHUB_TOKEN은 공개 저장소 통계만 조회할 수 있다.
+# 비공개 저장소까지 포함하려면 repo 스코프 PAT를 ACCESS_TOKEN 시크릿으로 등록할 것.
+# (등록 전에는 비공개 LOC가 loc_cache.json의 마지막 값으로 유지된다)
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 00:00 UTC = 09:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update stats and regenerate SVGs
+        working-directory: scripts
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_stats.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.json loc_cache.json profile-dark.svg profile-light.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update profile stats"
+            git push
+          fi
