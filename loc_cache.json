@@ -280,14 +280,14 @@
   "pushed_at": "2025-01-17T10:27:12Z"
  },
  "apis": {
-  "additions": 529218,
-  "deletions": 138214,
-  "pushed_at": "2026-07-16T01:37:28Z"
+  "additions": 529538,
+  "deletions": 138371,
+  "pushed_at": "2026-07-16T13:24:19Z"
  },
  "apis-frontend": {
-  "additions": 101962,
-  "deletions": 18077,
-  "pushed_at": "2026-07-10T10:14:56Z"
+  "additions": 102180,
+  "deletions": 18128,
+  "pushed_at": "2026-07-16T05:50:54Z"
  },
  "apis-py": {
   "additions": 326581,
@@ -455,9 +455,9 @@
   "pushed_at": "2025-12-22T05:13:32Z"
  },
  "earthcast": {
-  "additions": 12752,
-  "deletions": 481,
-  "pushed_at": "2026-07-16T01:55:10Z"
+  "additions": 13043,
+  "deletions": 596,
+  "pushed_at": "2026-07-16T03:11:37Z"
  },
  "exchange-rate-app": {
   "additions": 23025,
@@ -765,9 +765,9 @@
   "pushed_at": "2019-01-05T04:07:25Z"
  },
  "ink-water": {
-  "additions": 57961,
-  "deletions": 3115,
-  "pushed_at": "2026-07-14T12:46:08Z"
+  "additions": 59060,
+  "deletions": 3175,
+  "pushed_at": "2026-07-16T06:41:00Z"
  },
  "instagram-analytics-app": {
   "additions": 0,
@@ -1147,7 +1147,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-07-15T01:47:58Z"
+  "pushed_at": "2026-07-16T01:58:25Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1268,6 +1268,11 @@
   "additions": 6616,
   "deletions": 628,
   "pushed_at": "2025-10-02T10:46:07Z"
+ },
+ "tidecast": {
+  "additions": 15626,
+  "deletions": 70,
+  "pushed_at": "2026-07-16T14:50:16Z"
  },
  "translator-android": {
   "additions": 2741,
