@@ -35,9 +35,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 205008,
-  "deletions": 55016,
-  "pushed_at": "2026-07-21T12:27:25Z"
+  "additions": 205138,
+  "deletions": 55024,
+  "pushed_at": "2026-07-23T00:23:36Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -50,9 +50,9 @@
   "pushed_at": "2026-07-18T14:59:06Z"
  },
  "admob-pro-server": {
-  "additions": 164280,
-  "deletions": 30295,
-  "pushed_at": "2026-07-21T12:05:19Z"
+  "additions": 164552,
+  "deletions": 30314,
+  "pushed_at": "2026-07-23T00:23:31Z"
  },
  "ai-db": {
   "additions": 41511,
@@ -290,9 +290,9 @@
   "pushed_at": "2026-07-21T01:31:57Z"
  },
  "apis-py": {
-  "additions": 340182,
-  "deletions": 3742,
-  "pushed_at": "2026-07-22T00:42:27Z"
+  "additions": 342490,
+  "deletions": 3767,
+  "pushed_at": "2026-07-23T01:01:53Z"
  },
  "app-factory": {
   "additions": 35608,
@@ -440,9 +440,9 @@
   "pushed_at": "2022-01-16T14:52:37Z"
  },
  "dark-slayer": {
-  "additions": 40613,
-  "deletions": 2984,
-  "pushed_at": "2026-07-21T13:23:28Z"
+  "additions": 44561,
+  "deletions": 3064,
+  "pushed_at": "2026-07-23T01:15:37Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -455,14 +455,14 @@
   "pushed_at": "2025-12-22T05:13:32Z"
  },
  "earthcast": {
-  "additions": 13043,
-  "deletions": 596,
-  "pushed_at": "2026-07-16T03:11:37Z"
+  "additions": 14345,
+  "deletions": 629,
+  "pushed_at": "2026-07-23T00:12:08Z"
  },
  "exchange-rate-app": {
-  "additions": 23025,
-  "deletions": 15723,
-  "pushed_at": "2025-10-14T02:56:06Z"
+  "additions": 26972,
+  "deletions": 22598,
+  "pushed_at": "2026-07-23T00:58:36Z"
  },
  "fake-my-money": {
   "additions": 11185,
@@ -535,9 +535,9 @@
   "pushed_at": "2020-07-26T15:31:51Z"
  },
  "flutter-card-management": {
-  "additions": 37678,
-  "deletions": 7604,
-  "pushed_at": "2026-07-21T09:42:20Z"
+  "additions": 37690,
+  "deletions": 7607,
+  "pushed_at": "2026-07-22T06:31:10Z"
  },
  "flutter-chat-pilot-": {
   "additions": 3341,
@@ -865,9 +865,9 @@
   "pushed_at": "2026-07-18T11:33:00Z"
  },
  "mac-clipboard": {
-  "additions": 42460,
-  "deletions": 1528,
-  "pushed_at": "2026-07-20T08:27:23Z"
+  "additions": 48784,
+  "deletions": 2326,
+  "pushed_at": "2026-07-23T02:02:21Z"
  },
  "mbti-build": {
   "additions": 15404,
@@ -1079,6 +1079,11 @@
   "deletions": 0,
   "pushed_at": "2025-08-14T09:50:10Z"
  },
+ "screenshots-hub": {
+  "additions": 15947,
+  "deletions": 0,
+  "pushed_at": "2026-07-23T00:28:59Z"
+ },
  "seller-community": {
   "additions": 11361,
   "deletions": 2806,
@@ -1147,7 +1152,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-07-21T02:00:30Z"
+  "pushed_at": "2026-07-22T01:58:58Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1270,9 +1275,14 @@
   "pushed_at": "2025-10-02T10:46:07Z"
  },
  "tidecast": {
-  "additions": 21410,
-  "deletions": 1559,
-  "pushed_at": "2026-07-22T01:55:56Z"
+  "additions": 21620,
+  "deletions": 1652,
+  "pushed_at": "2026-07-22T12:20:36Z"
+ },
+ "tidyclip": {
+  "additions": 168,
+  "deletions": 0,
+  "pushed_at": "2026-07-23T00:21:29Z"
  },
  "translator-android": {
   "additions": 2741,
@@ -1295,9 +1305,9 @@
   "pushed_at": "2023-12-15T13:13:17Z"
  },
  "video-ad-generator": {
-  "additions": 2491,
-  "deletions": 189,
-  "pushed_at": "2026-07-22T00:35:35Z"
+  "additions": 2712,
+  "deletions": 225,
+  "pushed_at": "2026-07-23T00:23:18Z"
  },
  "voice-gps": {
   "additions": 11152,
