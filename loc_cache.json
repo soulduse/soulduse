@@ -45,9 +45,9 @@
   "pushed_at": "2025-12-31T21:11:21Z"
  },
  "admob-pro-android-v2": {
-  "additions": 48622,
-  "deletions": 4180,
-  "pushed_at": "2026-07-18T14:59:06Z"
+  "additions": 51213,
+  "deletions": 4488,
+  "pushed_at": "2026-07-26T03:20:23Z"
  },
  "admob-pro-server": {
   "additions": 165617,
@@ -280,9 +280,9 @@
   "pushed_at": "2025-01-17T10:27:12Z"
  },
  "apis": {
-  "additions": 533007,
-  "deletions": 138772,
-  "pushed_at": "2026-07-25T09:00:50Z"
+  "additions": 533325,
+  "deletions": 138911,
+  "pushed_at": "2026-07-26T12:27:36Z"
  },
  "apis-frontend": {
   "additions": 103736,
@@ -290,14 +290,14 @@
   "pushed_at": "2026-07-21T01:31:57Z"
  },
  "apis-py": {
-  "additions": 368939,
-  "deletions": 4563,
-  "pushed_at": "2026-07-25T20:38:14Z"
+  "additions": 374972,
+  "deletions": 4850,
+  "pushed_at": "2026-07-27T01:12:27Z"
  },
  "app-factory": {
-  "additions": 343359,
-  "deletions": 110893,
-  "pushed_at": "2026-07-25T22:53:57Z"
+  "additions": 367523,
+  "deletions": 112372,
+  "pushed_at": "2026-07-27T01:12:32Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -415,9 +415,9 @@
   "pushed_at": "2026-05-27T12:53:47Z"
  },
  "claude-skills": {
-  "additions": 694,
-  "deletions": 14,
-  "pushed_at": "2026-07-25T02:30:59Z"
+  "additions": 698,
+  "deletions": 17,
+  "pushed_at": "2026-07-26T03:38:21Z"
  },
  "codebear-web-site": {
   "additions": 10473,
@@ -465,9 +465,9 @@
   "pushed_at": "2026-07-25T02:33:18Z"
  },
  "exchange-rate-app": {
-  "additions": 31531,
+  "additions": 31535,
   "deletions": 23227,
-  "pushed_at": "2026-07-25T07:46:06Z"
+  "pushed_at": "2026-07-26T06:44:55Z"
  },
  "fake-my-money": {
   "additions": 11185,
@@ -825,9 +825,9 @@
   "pushed_at": "2022-11-14T13:47:12Z"
  },
  "knowledge-base": {
-  "additions": 17114,
-  "deletions": 84,
-  "pushed_at": "2026-07-24T09:54:54Z"
+  "additions": 18989,
+  "deletions": 143,
+  "pushed_at": "2026-07-26T11:19:16Z"
  },
  "kode": {
   "additions": 16275,
@@ -1085,9 +1085,9 @@
   "pushed_at": "2025-08-14T09:50:10Z"
  },
  "screenshots-hub": {
-  "additions": 27313,
-  "deletions": 1239,
-  "pushed_at": "2026-07-25T10:03:49Z"
+  "additions": 34059,
+  "deletions": 2048,
+  "pushed_at": "2026-07-26T11:46:15Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1162,7 +1162,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-07-25T02:01:44Z"
+  "pushed_at": "2026-07-26T02:06:07Z"
  },
  "spellchecker": {
   "additions": 6125,
