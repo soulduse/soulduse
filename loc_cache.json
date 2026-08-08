@@ -50,9 +50,9 @@
   "pushed_at": "2026-07-26T03:20:23Z"
  },
  "admob-pro-server": {
-  "additions": 173485,
-  "deletions": 31342,
-  "pushed_at": "2026-08-06T10:54:57Z"
+  "additions": 173860,
+  "deletions": 31370,
+  "pushed_at": "2026-08-07T11:18:39Z"
  },
  "ai-db": {
   "additions": 41511,
@@ -127,7 +127,7 @@
  "android-chatgpt-base": {
   "additions": 42466,
   "deletions": 9041,
-  "pushed_at": "2026-06-23T07:47:53Z"
+  "pushed_at": "2026-08-07T06:56:30Z"
  },
  "android-clipboard": {
   "additions": 44613,
@@ -290,14 +290,14 @@
   "pushed_at": "2026-07-30T11:32:15Z"
  },
  "apis-py": {
-  "additions": 386190,
-  "deletions": 6141,
-  "pushed_at": "2026-08-07T01:43:20Z"
+  "additions": 387531,
+  "deletions": 6166,
+  "pushed_at": "2026-08-07T19:52:04Z"
  },
  "app-factory": {
   "additions": 692869,
   "deletions": 127972,
-  "pushed_at": "2026-08-06T23:03:22Z"
+  "pushed_at": "2026-08-07T05:34:02Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -355,9 +355,9 @@
   "pushed_at": "2020-01-09T16:50:12Z"
  },
  "bohumsearch-app": {
-  "additions": 11382,
-  "deletions": 533,
-  "pushed_at": "2026-07-20T15:03:33Z"
+  "additions": 12507,
+  "deletions": 728,
+  "pushed_at": "2026-08-07T14:01:35Z"
  },
  "bokji-app": {
   "additions": 0,
@@ -417,12 +417,12 @@
  "chatgpt-app-build": {
   "additions": 5084,
   "deletions": 640,
-  "pushed_at": "2026-05-27T12:53:47Z"
+  "pushed_at": "2026-08-07T06:56:30Z"
  },
  "claude-skills": {
-  "additions": 1557,
+  "additions": 1600,
   "deletions": 53,
-  "pushed_at": "2026-08-07T01:52:39Z"
+  "pushed_at": "2026-08-07T04:10:22Z"
  },
  "codebear-web-site": {
   "additions": 10473,
@@ -460,9 +460,9 @@
   "pushed_at": "2026-08-04T11:29:38Z"
  },
  "dark-slayer": {
-  "additions": 44879,
-  "deletions": 3087,
-  "pushed_at": "2026-08-02T10:42:28Z"
+  "additions": 45686,
+  "deletions": 3295,
+  "pushed_at": "2026-08-07T13:19:48Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -475,9 +475,9 @@
   "pushed_at": "2025-12-22T05:13:32Z"
  },
  "earthcast": {
-  "additions": 14503,
-  "deletions": 684,
-  "pushed_at": "2026-08-02T13:17:51Z"
+  "additions": 23126,
+  "deletions": 1023,
+  "pushed_at": "2026-08-07T11:30:37Z"
  },
  "exchange-rate-app": {
   "additions": 31535,
@@ -810,9 +810,9 @@
   "pushed_at": "2019-01-03T15:11:16Z"
  },
  "ios-korean-spell-checker": {
-  "additions": 10237,
-  "deletions": 117,
-  "pushed_at": "2025-05-14T06:05:14Z"
+  "additions": 10547,
+  "deletions": 358,
+  "pushed_at": "2026-08-07T08:39:14Z"
  },
  "java-design-pattern": {
   "additions": 1258,
@@ -893,6 +893,11 @@
   "additions": 15404,
   "deletions": 76,
   "pushed_at": "2025-10-13T06:43:10Z"
+ },
+ "meadow-keep": {
+  "additions": 81424,
+  "deletions": 113,
+  "pushed_at": "2026-08-07T10:54:25Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -985,9 +990,9 @@
   "pushed_at": "2025-04-27T07:55:54Z"
  },
  "pdfhub-app": {
-  "additions": 34846,
-  "deletions": 2726,
-  "pushed_at": "2026-08-06T11:23:07Z"
+  "additions": 39248,
+  "deletions": 2727,
+  "pushed_at": "2026-08-07T11:20:47Z"
  },
  "perplexity-crawler": {
   "additions": 2979,
@@ -1050,9 +1055,9 @@
   "pushed_at": "2026-06-25T06:22:53Z"
  },
  "qrkeep": {
-  "additions": 22265,
-  "deletions": 758,
-  "pushed_at": "2026-08-06T11:23:21Z"
+  "additions": 22368,
+  "deletions": 810,
+  "pushed_at": "2026-08-07T13:57:34Z"
  },
  "recipe-android-app": {
   "additions": 16713,
@@ -1182,7 +1187,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-08-06T01:55:04Z"
+  "pushed_at": "2026-08-07T02:17:37Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1299,6 +1304,11 @@
   "deletions": 57,
   "pushed_at": "2026-07-18T07:48:36Z"
  },
+ "team-ai": {
+  "additions": 3237,
+  "deletions": 48,
+  "pushed_at": "2026-08-07T06:33:53Z"
+ },
  "text-counter": {
   "additions": 1080,
   "deletions": 0,
@@ -1320,9 +1330,9 @@
   "pushed_at": "2026-07-23T00:21:29Z"
  },
  "tile-trip": {
-  "additions": 75734,
-  "deletions": 4316,
-  "pushed_at": "2026-08-07T02:02:12Z"
+  "additions": 77215,
+  "deletions": 5372,
+  "pushed_at": "2026-08-07T04:08:53Z"
  },
  "translator-android": {
   "additions": 2741,
