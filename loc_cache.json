@@ -35,9 +35,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 213863,
-  "deletions": 56434,
-  "pushed_at": "2026-08-02T12:16:35Z"
+  "additions": 214043,
+  "deletions": 56467,
+  "pushed_at": "2026-08-08T10:58:47Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -50,9 +50,9 @@
   "pushed_at": "2026-07-26T03:20:23Z"
  },
  "admob-pro-server": {
-  "additions": 173860,
-  "deletions": 31370,
-  "pushed_at": "2026-08-07T11:18:39Z"
+  "additions": 173864,
+  "deletions": 31371,
+  "pushed_at": "2026-08-08T10:19:17Z"
  },
  "ai-db": {
   "additions": 41511,
@@ -290,9 +290,9 @@
   "pushed_at": "2026-07-30T11:32:15Z"
  },
  "apis-py": {
-  "additions": 387531,
-  "deletions": 6166,
-  "pushed_at": "2026-08-07T19:52:04Z"
+  "additions": 388951,
+  "deletions": 6253,
+  "pushed_at": "2026-08-08T20:16:56Z"
  },
  "app-factory": {
   "additions": 692869,
@@ -355,9 +355,9 @@
   "pushed_at": "2020-01-09T16:50:12Z"
  },
  "bohumsearch-app": {
-  "additions": 12507,
-  "deletions": 728,
-  "pushed_at": "2026-08-07T14:01:35Z"
+  "additions": 12576,
+  "deletions": 745,
+  "pushed_at": "2026-08-08T02:07:46Z"
  },
  "bokji-app": {
   "additions": 0,
@@ -460,9 +460,9 @@
   "pushed_at": "2026-08-04T11:29:38Z"
  },
  "dark-slayer": {
-  "additions": 45686,
-  "deletions": 3295,
-  "pushed_at": "2026-08-07T13:19:48Z"
+  "additions": 49641,
+  "deletions": 3798,
+  "pushed_at": "2026-08-09T00:23:28Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -895,9 +895,9 @@
   "pushed_at": "2025-10-13T06:43:10Z"
  },
  "meadow-keep": {
-  "additions": 81424,
-  "deletions": 113,
-  "pushed_at": "2026-08-07T10:54:25Z"
+  "additions": 82222,
+  "deletions": 232,
+  "pushed_at": "2026-08-08T15:14:58Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1055,9 +1055,9 @@
   "pushed_at": "2026-06-25T06:22:53Z"
  },
  "qrkeep": {
-  "additions": 22368,
-  "deletions": 810,
-  "pushed_at": "2026-08-07T13:57:34Z"
+  "additions": 23038,
+  "deletions": 822,
+  "pushed_at": "2026-08-08T06:29:31Z"
  },
  "recipe-android-app": {
   "additions": 16713,
@@ -1089,10 +1089,15 @@
   "deletions": 17,
   "pushed_at": "2023-01-23T14:40:16Z"
  },
+ "screen-magnifier": {
+  "additions": 9026,
+  "deletions": 3403,
+  "pushed_at": "2026-08-08T16:24:56Z"
+ },
  "screen-pet-proto": {
-  "additions": 29389,
-  "deletions": 2411,
-  "pushed_at": "2026-08-05T02:10:14Z"
+  "additions": 29646,
+  "deletions": 2497,
+  "pushed_at": "2026-08-08T11:08:05Z"
  },
  "screenshot-work-backend": {
   "additions": 0,
@@ -1187,7 +1192,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-08-07T02:17:37Z"
+  "pushed_at": "2026-08-08T01:05:01Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1314,6 +1319,11 @@
   "deletions": 0,
   "pushed_at": "2021-01-12T13:38:20Z"
  },
+ "thornvale": {
+  "additions": 21692,
+  "deletions": 410,
+  "pushed_at": "2026-08-08T09:17:40Z"
+ },
  "threads-radio": {
   "additions": 6616,
   "deletions": 628,
@@ -1330,9 +1340,9 @@
   "pushed_at": "2026-07-23T00:21:29Z"
  },
  "tile-trip": {
-  "additions": 77215,
-  "deletions": 5372,
-  "pushed_at": "2026-08-07T04:08:53Z"
+  "additions": 100898,
+  "deletions": 13871,
+  "pushed_at": "2026-08-08T14:52:16Z"
  },
  "translator-android": {
   "additions": 2741,
@@ -1355,9 +1365,9 @@
   "pushed_at": "2023-12-15T13:13:17Z"
  },
  "video-ad-generator": {
-  "additions": 3531,
-  "deletions": 379,
-  "pushed_at": "2026-08-03T04:25:27Z"
+  "additions": 3825,
+  "deletions": 510,
+  "pushed_at": "2026-08-08T13:51:36Z"
  },
  "voice-gps": {
   "additions": 11222,
