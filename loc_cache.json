@@ -35,9 +35,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 220557,
-  "deletions": 57942,
-  "pushed_at": "2026-08-16T14:45:38Z"
+  "additions": 220848,
+  "deletions": 58038,
+  "pushed_at": "2026-08-18T15:43:45Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -290,19 +290,19 @@
   "pushed_at": "2026-08-17T01:04:14Z"
  },
  "apis-py": {
-  "additions": 408776,
-  "deletions": 6948,
-  "pushed_at": "2026-08-17T19:50:16Z"
+  "additions": 408878,
+  "deletions": 6971,
+  "pushed_at": "2026-08-18T19:48:57Z"
  },
  "app-factory": {
-  "additions": 1710870,
-  "deletions": 152426,
-  "pushed_at": "2026-08-16T14:55:15Z"
+  "additions": 1716712,
+  "deletions": 152759,
+  "pushed_at": "2026-08-18T22:57:18Z"
  },
  "app-factory-meta": {
-  "additions": 9210,
+  "additions": 9346,
   "deletions": 0,
-  "pushed_at": "2026-08-12T16:06:19Z"
+  "pushed_at": "2026-08-18T09:02:45Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -430,9 +430,9 @@
   "pushed_at": "2026-08-07T06:56:30Z"
  },
  "claude-skills": {
-  "additions": 1834,
-  "deletions": 61,
-  "pushed_at": "2026-08-12T13:17:40Z"
+  "additions": 1871,
+  "deletions": 80,
+  "pushed_at": "2026-08-18T16:01:00Z"
  },
  "codebear-web-site": {
   "additions": 10473,
@@ -465,14 +465,14 @@
   "pushed_at": "2026-08-03T15:25:01Z"
  },
  "dandelion-lamp": {
-  "additions": 12446,
-  "deletions": 0,
-  "pushed_at": "2026-08-04T11:29:38Z"
+  "additions": 14604,
+  "deletions": 48,
+  "pushed_at": "2026-08-18T11:20:57Z"
  },
  "dark-slayer": {
-  "additions": 62009,
-  "deletions": 5225,
-  "pushed_at": "2026-08-12T01:25:50Z"
+  "additions": 87159,
+  "deletions": 5777,
+  "pushed_at": "2026-08-18T15:24:18Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -749,6 +749,11 @@
   "deletions": 6,
   "pushed_at": "2023-03-17T14:09:22Z"
  },
+ "hangul-keyboard": {
+  "additions": 8173,
+  "deletions": 162,
+  "pushed_at": "2026-08-18T15:54:35Z"
+ },
  "hanspell-check-lambda": {
   "additions": 102,
   "deletions": 0,
@@ -780,9 +785,14 @@
   "pushed_at": "2026-06-25T12:52:21Z"
  },
  "infinity-apps-web": {
-  "additions": 8995,
-  "deletions": 190,
-  "pushed_at": "2026-01-30T04:11:31Z"
+  "additions": 9302,
+  "deletions": 410,
+  "pushed_at": "2026-08-18T12:23:18Z"
+ },
+ "infinityapps-site": {
+  "additions": 114,
+  "deletions": 34,
+  "pushed_at": "2026-08-18T08:00:19Z"
  },
  "inflearn-courses": {
   "additions": 14860,
@@ -1207,12 +1217,12 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-08-17T00:51:44Z"
+  "pushed_at": "2026-08-18T00:49:48Z"
  },
  "spellchecker": {
   "additions": 6125,
   "deletions": 1268,
-  "pushed_at": "2026-08-17T14:18:47Z"
+  "pushed_at": "2026-08-18T12:13:25Z"
  },
  "spider-nest": {
   "additions": 20371,
