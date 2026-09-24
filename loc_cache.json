@@ -35,9 +35,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 230033,
-  "deletions": 59469,
-  "pushed_at": "2026-09-20T11:22:45Z"
+  "additions": 230316,
+  "deletions": 59582,
+  "pushed_at": "2026-09-23T09:21:15Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -50,9 +50,9 @@
   "pushed_at": "2026-08-28T06:23:43Z"
  },
  "admob-pro-server": {
-  "additions": 193974,
-  "deletions": 33942,
-  "pushed_at": "2026-09-20T10:19:46Z"
+  "additions": 195375,
+  "deletions": 33968,
+  "pushed_at": "2026-09-23T11:42:00Z"
  },
  "admob-pro-server-py": {
   "additions": 122183,
@@ -75,9 +75,9 @@
   "pushed_at": "2024-12-11T04:22:50Z"
  },
  "ai-token-monitor": {
-  "additions": 52170,
-  "deletions": 7353,
-  "pushed_at": "2026-09-23T00:25:21Z"
+  "additions": 52249,
+  "deletions": 7356,
+  "pushed_at": "2026-09-23T16:14:05Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -295,9 +295,9 @@
   "pushed_at": "2026-09-22T04:33:02Z"
  },
  "apis-py": {
-  "additions": 529824,
-  "deletions": 16881,
-  "pushed_at": "2026-09-22T13:16:03Z"
+  "additions": 531208,
+  "deletions": 16968,
+  "pushed_at": "2026-09-23T10:02:46Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 3151519,
-  "deletions": 172808,
-  "pushed_at": "2026-09-22T22:53:33Z"
+  "additions": 3152011,
+  "deletions": 172875,
+  "pushed_at": "2026-09-23T22:57:25Z"
  },
  "app-factory-meta": {
   "additions": 12954,
@@ -445,9 +445,9 @@
   "pushed_at": "2026-08-07T06:56:30Z"
  },
  "claude-skills": {
-  "additions": 3123,
-  "deletions": 154,
-  "pushed_at": "2026-09-20T13:27:56Z"
+  "additions": 3199,
+  "deletions": 191,
+  "pushed_at": "2026-09-23T23:29:29Z"
  },
  "codebear-web-site": {
   "additions": 10473,
@@ -485,9 +485,9 @@
   "pushed_at": "2026-08-19T02:28:24Z"
  },
  "dark-slayer": {
-  "additions": 448048,
-  "deletions": 63385,
-  "pushed_at": "2026-09-22T15:54:49Z"
+  "additions": 448268,
+  "deletions": 63396,
+  "pushed_at": "2026-09-23T11:47:46Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -615,9 +615,9 @@
   "pushed_at": "2026-08-04T13:13:38Z"
  },
  "flutter-lh-information-4": {
-  "additions": 14864,
-  "deletions": 1696,
-  "pushed_at": "2026-08-12T11:02:59Z"
+  "additions": 16529,
+  "deletions": 1927,
+  "pushed_at": "2026-09-23T12:39:05Z"
  },
  "flutter-lh-mate": {
   "additions": 15625,
@@ -820,9 +820,9 @@
   "pushed_at": "2019-01-05T04:07:25Z"
  },
  "ink-water": {
-  "additions": 61849,
-  "deletions": 3300,
-  "pushed_at": "2026-08-02T10:42:18Z"
+  "additions": 63302,
+  "deletions": 3410,
+  "pushed_at": "2026-09-23T12:39:11Z"
  },
  "inkstorm": {
   "additions": 12403,
@@ -850,9 +850,9 @@
   "pushed_at": "2019-01-03T15:11:16Z"
  },
  "ios-korean-spell-checker": {
-  "additions": 14191,
-  "deletions": 1972,
-  "pushed_at": "2026-08-25T06:31:21Z"
+  "additions": 16220,
+  "deletions": 1979,
+  "pushed_at": "2026-09-23T11:56:36Z"
  },
  "ios-pixelheart-app": {
   "additions": 63003,
@@ -860,9 +860,9 @@
   "pushed_at": "2026-09-04T13:55:00Z"
  },
  "ios-stocks-app": {
-  "additions": 26455,
-  "deletions": 2075,
-  "pushed_at": "2026-09-03T04:13:29Z"
+  "additions": 26690,
+  "deletions": 2081,
+  "pushed_at": "2026-09-23T12:39:23Z"
  },
  "java-design-pattern": {
   "additions": 1258,
@@ -935,9 +935,9 @@
   "pushed_at": "2025-09-12T10:25:25Z"
  },
  "lotto-machine": {
-  "additions": 60649,
-  "deletions": 8183,
-  "pushed_at": "2026-09-22T06:57:37Z"
+  "additions": 63504,
+  "deletions": 8772,
+  "pushed_at": "2026-09-23T16:23:03Z"
  },
  "mac-clipboard": {
   "additions": 51194,
@@ -1267,7 +1267,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-09-22T02:44:50Z"
+  "pushed_at": "2026-09-23T02:45:25Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1303,6 +1303,11 @@
   "additions": 2217,
   "deletions": 158,
   "pushed_at": "2023-12-06T01:36:13Z"
+ },
+ "stack-defense": {
+  "additions": 40991,
+  "deletions": 4019,
+  "pushed_at": "2026-09-23T19:52:55Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1445,9 +1450,9 @@
   "pushed_at": "2023-12-15T13:13:17Z"
  },
  "video-ad-generator": {
-  "additions": 7096,
-  "deletions": 680,
-  "pushed_at": "2026-09-16T08:15:36Z"
+  "additions": 7408,
+  "deletions": 682,
+  "pushed_at": "2026-09-23T09:29:35Z"
  },
  "voice-gps": {
   "additions": 11222,
