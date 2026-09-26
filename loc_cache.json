@@ -290,14 +290,14 @@
   "pushed_at": "2026-08-20T07:56:36Z"
  },
  "apis-frontend": {
-  "additions": 106714,
-  "deletions": 18194,
-  "pushed_at": "2026-09-24T03:39:56Z"
+  "additions": 106717,
+  "deletions": 18196,
+  "pushed_at": "2026-09-25T12:08:32Z"
  },
  "apis-py": {
-  "additions": 541016,
-  "deletions": 17621,
-  "pushed_at": "2026-09-25T01:45:19Z"
+  "additions": 542598,
+  "deletions": 17739,
+  "pushed_at": "2026-09-25T19:21:59Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 3152147,
+  "additions": 3152345,
   "deletions": 172875,
-  "pushed_at": "2026-09-24T22:53:51Z"
+  "pushed_at": "2026-09-25T22:56:29Z"
  },
  "app-factory-meta": {
   "additions": 12954,
@@ -362,7 +362,7 @@
  "blast-bloom": {
   "additions": 1290941,
   "deletions": 48917,
-  "pushed_at": "2026-09-24T07:59:12Z"
+  "pushed_at": "2026-09-25T10:45:22Z"
  },
  "board-apis": {
   "additions": 16353,
@@ -407,7 +407,7 @@
  "bomb-dodge": {
   "additions": 179396,
   "deletions": 254,
-  "pushed_at": "2026-09-25T01:44:09Z"
+  "pushed_at": "2026-09-25T12:15:07Z"
  },
  "bookmark-tidy": {
   "additions": 6547,
@@ -485,9 +485,9 @@
   "pushed_at": "2026-08-19T02:28:24Z"
  },
  "dark-slayer": {
-  "additions": 475183,
-  "deletions": 64350,
-  "pushed_at": "2026-09-25T02:13:44Z"
+  "additions": 475318,
+  "deletions": 64361,
+  "pushed_at": "2026-09-25T16:12:01Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -1255,9 +1255,14 @@
   "pushed_at": "2026-03-31T13:16:28Z"
  },
  "someday-app": {
-  "additions": 53101,
-  "deletions": 5028,
-  "pushed_at": "2026-08-10T15:20:41Z"
+  "additions": 53357,
+  "deletions": 5058,
+  "pushed_at": "2026-09-25T12:08:45Z"
+ },
+ "someday-flutter": {
+  "additions": 69520,
+  "deletions": 7145,
+  "pushed_at": "2026-09-25T15:51:27Z"
  },
  "someday-scene-factory": {
   "additions": 2564,
@@ -1267,7 +1272,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-09-24T02:35:03Z"
+  "pushed_at": "2026-09-25T02:52:05Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1305,9 +1310,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 44274,
-  "deletions": 6696,
-  "pushed_at": "2026-09-24T09:18:51Z"
+  "additions": 57715,
+  "deletions": 7078,
+  "pushed_at": "2026-09-25T16:03:11Z"
  },
  "stock-admin": {
   "additions": 31210,
