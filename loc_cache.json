@@ -75,9 +75,9 @@
   "pushed_at": "2024-12-11T04:22:50Z"
  },
  "ai-token-monitor": {
-  "additions": 60894,
-  "deletions": 8518,
-  "pushed_at": "2026-10-14T12:12:29Z"
+  "additions": 62641,
+  "deletions": 8578,
+  "pushed_at": "2026-10-23T15:13:34Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -255,14 +255,14 @@
   "pushed_at": "2026-08-02T10:42:09Z"
  },
  "android-watch-tv-app": {
-  "additions": 23771,
-  "deletions": 1791,
-  "pushed_at": "2026-01-18T02:47:52Z"
+  "additions": 24183,
+  "deletions": 1913,
+  "pushed_at": "2026-10-23T15:08:33Z"
  },
  "android-watch-tv-app-build": {
-  "additions": 6073,
-  "deletions": 4958,
-  "pushed_at": "2026-08-02T10:41:56Z"
+  "additions": 6174,
+  "deletions": 4971,
+  "pushed_at": "2026-10-23T15:10:07Z"
  },
  "android-welfare-build-v1": {
   "additions": 50976,
@@ -280,9 +280,9 @@
   "pushed_at": "2016-02-27T02:18:07Z"
  },
  "animal-mart": {
-  "additions": 96915,
-  "deletions": 13808,
-  "pushed_at": "2026-10-22T13:11:50Z"
+  "additions": 155444,
+  "deletions": 13881,
+  "pushed_at": "2026-10-23T05:16:02Z"
  },
  "api-caller-py": {
   "additions": 106,
@@ -300,9 +300,9 @@
   "pushed_at": "2026-10-22T06:50:29Z"
  },
  "apis-py": {
-  "additions": 700778,
-  "deletions": 34947,
-  "pushed_at": "2026-10-22T13:23:22Z"
+  "additions": 718535,
+  "deletions": 37156,
+  "pushed_at": "2026-10-23T19:33:49Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -310,14 +310,14 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4231361,
+  "additions": 4231661,
   "deletions": 583316,
-  "pushed_at": "2026-10-22T22:52:52Z"
+  "pushed_at": "2026-10-23T22:51:02Z"
  },
  "app-factory-meta": {
-  "additions": 43460,
-  "deletions": 47,
-  "pushed_at": "2026-10-22T12:57:52Z"
+  "additions": 43762,
+  "deletions": 48,
+  "pushed_at": "2026-10-23T15:16:15Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -372,7 +372,7 @@
  "blast-bloom": {
   "additions": 1290941,
   "deletions": 48917,
-  "pushed_at": "2026-10-22T12:38:47Z"
+  "pushed_at": "2026-10-23T15:49:49Z"
  },
  "board-apis": {
   "additions": 16353,
@@ -445,9 +445,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 22615,
-  "deletions": 503,
-  "pushed_at": "2026-10-22T13:55:16Z"
+  "additions": 37335,
+  "deletions": 1187,
+  "pushed_at": "2026-10-23T16:43:26Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -510,9 +510,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 585930,
-  "deletions": 77372,
-  "pushed_at": "2026-10-21T13:58:43Z"
+  "additions": 587806,
+  "deletions": 77428,
+  "pushed_at": "2026-10-23T08:13:41Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -995,9 +995,9 @@
   "pushed_at": "2025-10-13T06:43:10Z"
  },
  "meadow-keep": {
-  "additions": 616364,
-  "deletions": 34120,
-  "pushed_at": "2026-10-22T21:09:18Z"
+  "additions": 617438,
+  "deletions": 34363,
+  "pushed_at": "2026-10-23T15:12:21Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1104,6 +1104,11 @@
   "deletions": 29,
   "pushed_at": "2026-08-02T10:41:57Z"
  },
+ "pixel-dog": {
+  "additions": 12117,
+  "deletions": 143,
+  "pushed_at": "2026-10-23T17:57:30Z"
+ },
  "pixel-glass-cam": {
   "additions": 11793,
   "deletions": 634,
@@ -1175,9 +1180,9 @@
   "pushed_at": "2026-09-01T13:45:56Z"
  },
  "realtv-android": {
-  "additions": 18038,
+  "additions": 18710,
   "deletions": 927,
-  "pushed_at": "2026-10-21T14:27:55Z"
+  "pushed_at": "2026-10-23T13:26:44Z"
  },
  "recipe-android-app": {
   "additions": 16713,
@@ -1225,9 +1230,9 @@
   "pushed_at": "2026-08-08T16:24:56Z"
  },
  "screen-pet-proto": {
-  "additions": 1777397,
-  "deletions": 52633,
-  "pushed_at": "2026-10-21T07:24:43Z"
+  "additions": 1777933,
+  "deletions": 52654,
+  "pushed_at": "2026-10-23T05:26:48Z"
  },
  "screenshot-work-backend": {
   "additions": 0,
@@ -1245,9 +1250,9 @@
   "pushed_at": "2026-10-13T13:04:00Z"
  },
  "sea-forager": {
-  "additions": 64288,
-  "deletions": 6365,
-  "pushed_at": "2026-10-22T05:12:20Z"
+  "additions": 64994,
+  "deletions": 6415,
+  "pushed_at": "2026-10-23T03:11:56Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1315,9 +1320,9 @@
   "pushed_at": "2021-09-02T13:03:33Z"
  },
  "snack-games": {
-  "additions": 15433,
-  "deletions": 273,
-  "pushed_at": "2026-10-22T13:22:46Z"
+  "additions": 56331,
+  "deletions": 4867,
+  "pushed_at": "2026-10-23T19:31:14Z"
  },
  "someday": {
   "additions": 14283,
@@ -1342,7 +1347,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-10-22T00:15:02Z"
+  "pushed_at": "2026-10-23T00:16:53Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1380,9 +1385,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 224746,
-  "deletions": 22252,
-  "pushed_at": "2026-10-22T14:09:22Z"
+  "additions": 224777,
+  "deletions": 22282,
+  "pushed_at": "2026-10-23T01:34:59Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1390,9 +1395,9 @@
   "pushed_at": "2026-07-02T08:00:01Z"
  },
  "stock-analyzer": {
-  "additions": 89263,
+  "additions": 90832,
   "deletions": 5460,
-  "pushed_at": "2026-10-20T09:25:28Z"
+  "pushed_at": "2026-10-23T15:15:10Z"
  },
  "stock-app-admin": {
   "additions": 9678,
@@ -1407,7 +1412,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-10-22T13:23:25Z"
+  "pushed_at": "2026-10-23T15:44:54Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1480,9 +1485,9 @@
   "pushed_at": "2026-07-18T07:48:36Z"
  },
  "team-ai": {
-  "additions": 8939,
-  "deletions": 748,
-  "pushed_at": "2026-10-14T16:16:52Z"
+  "additions": 9105,
+  "deletions": 773,
+  "pushed_at": "2026-10-23T00:32:01Z"
  },
  "text-counter": {
   "additions": 1080,
@@ -1560,9 +1565,9 @@
   "pushed_at": "2022-03-15T12:09:42Z"
  },
  "warm-greetings": {
-  "additions": 71725,
-  "deletions": 4303,
-  "pushed_at": "2026-10-22T13:25:10Z"
+  "additions": 95454,
+  "deletions": 5893,
+  "pushed_at": "2026-10-23T16:43:22Z"
  },
  "web-beginner": {
   "additions": 4147,
