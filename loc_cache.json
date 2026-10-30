@@ -55,9 +55,9 @@
   "pushed_at": "2026-10-05T08:00:59Z"
  },
  "admob-pro-server": {
-  "additions": 221413,
-  "deletions": 35296,
-  "pushed_at": "2026-10-14T03:38:58Z"
+  "additions": 221488,
+  "deletions": 35310,
+  "pushed_at": "2026-10-29T04:42:43Z"
  },
  "admob-pro-server-py": {
   "additions": 126121,
@@ -255,9 +255,9 @@
   "pushed_at": "2023-12-25T14:28:37Z"
  },
  "android-tts": {
-  "additions": 13217,
-  "deletions": 1338,
-  "pushed_at": "2026-08-02T10:42:09Z"
+  "additions": 13218,
+  "deletions": 1339,
+  "pushed_at": "2026-10-29T05:13:51Z"
  },
  "android-watch-tv-app": {
   "additions": 24183,
@@ -285,9 +285,9 @@
   "pushed_at": "2016-02-27T02:18:07Z"
  },
  "animal-mart": {
-  "additions": 239731,
-  "deletions": 14201,
-  "pushed_at": "2026-10-28T10:07:15Z"
+  "additions": 239876,
+  "deletions": 14224,
+  "pushed_at": "2026-10-29T04:40:08Z"
  },
  "api-caller-py": {
   "additions": 106,
@@ -300,14 +300,14 @@
   "pushed_at": "2026-08-20T07:56:36Z"
  },
  "apis-frontend": {
-  "additions": 109646,
+  "additions": 114209,
   "deletions": 21797,
-  "pushed_at": "2026-10-22T06:50:29Z"
+  "pushed_at": "2026-10-29T15:42:54Z"
  },
  "apis-py": {
-  "additions": 735731,
-  "deletions": 38259,
-  "pushed_at": "2026-10-28T19:25:14Z"
+  "additions": 755745,
+  "deletions": 38889,
+  "pushed_at": "2026-10-29T19:39:57Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4271653,
-  "deletions": 584039,
-  "pushed_at": "2026-10-29T00:02:36Z"
+  "additions": 4272044,
+  "deletions": 584040,
+  "pushed_at": "2026-10-29T22:58:23Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -377,7 +377,7 @@
  "blast-bloom": {
   "additions": 1290941,
   "deletions": 48917,
-  "pushed_at": "2026-10-27T12:31:56Z"
+  "pushed_at": "2026-10-29T17:29:25Z"
  },
  "board-apis": {
   "additions": 16353,
@@ -435,9 +435,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 394751,
-  "deletions": 56303,
-  "pushed_at": "2026-10-28T00:59:58Z"
+  "additions": 398147,
+  "deletions": 57397,
+  "pushed_at": "2026-10-29T15:31:51Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 40778,
-  "deletions": 1886,
-  "pushed_at": "2026-10-27T09:54:58Z"
+  "additions": 41635,
+  "deletions": 2148,
+  "pushed_at": "2026-10-29T16:38:20Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 600682,
-  "deletions": 78280,
-  "pushed_at": "2026-10-28T10:18:50Z"
+  "additions": 601487,
+  "deletions": 78487,
+  "pushed_at": "2026-10-29T13:37:43Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -920,9 +920,9 @@
   "pushed_at": "2017-06-27T12:21:34Z"
  },
  "javis": {
-  "additions": 9973,
-  "deletions": 463,
-  "pushed_at": "2026-10-27T14:41:12Z"
+  "additions": 12034,
+  "deletions": 626,
+  "pushed_at": "2026-10-29T10:33:20Z"
  },
  "jelly-lab-web": {
   "additions": 57198,
@@ -935,9 +935,9 @@
   "pushed_at": "2026-10-17T14:04:02Z"
  },
  "jelly-sort": {
-  "additions": 33042,
-  "deletions": 1761,
-  "pushed_at": "2026-10-17T14:04:03Z"
+  "additions": 33611,
+  "deletions": 1797,
+  "pushed_at": "2026-10-29T16:46:26Z"
  },
  "journey-map": {
   "additions": 20518,
@@ -1010,9 +1010,9 @@
   "pushed_at": "2026-10-27T12:37:02Z"
  },
  "mecha-defense": {
-  "additions": 30788,
-  "deletions": 3421,
-  "pushed_at": "2026-10-28T23:57:29Z"
+  "additions": 31258,
+  "deletions": 3820,
+  "pushed_at": "2026-10-29T15:38:23Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1265,9 +1265,9 @@
   "pushed_at": "2026-10-13T13:04:00Z"
  },
  "sea-forager": {
-  "additions": 70494,
-  "deletions": 7546,
-  "pushed_at": "2026-10-28T14:25:58Z"
+  "additions": 73913,
+  "deletions": 7687,
+  "pushed_at": "2026-10-29T16:57:24Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1335,9 +1335,9 @@
   "pushed_at": "2021-09-02T13:03:33Z"
  },
  "snack-games": {
-  "additions": 85491,
-  "deletions": 8821,
-  "pushed_at": "2026-10-28T04:18:51Z"
+  "additions": 86217,
+  "deletions": 8887,
+  "pushed_at": "2026-10-29T04:48:32Z"
  },
  "someday": {
   "additions": 14283,
@@ -1362,7 +1362,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-10-28T00:13:14Z"
+  "pushed_at": "2026-10-29T00:13:22Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1400,9 +1400,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 249166,
-  "deletions": 23593,
-  "pushed_at": "2026-10-28T08:11:36Z"
+  "additions": 249321,
+  "deletions": 23607,
+  "pushed_at": "2026-10-29T01:42:50Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1427,7 +1427,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-10-28T17:59:07Z"
+  "pushed_at": "2026-10-29T19:16:18Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1445,9 +1445,9 @@
   "pushed_at": "2026-10-22T08:26:05Z"
  },
  "store-automator": {
-  "additions": 30363,
-  "deletions": 504,
-  "pushed_at": "2026-10-28T10:03:17Z"
+  "additions": 30427,
+  "deletions": 505,
+  "pushed_at": "2026-10-29T05:13:52Z"
  },
  "story-app-template": {
   "additions": 8796,
@@ -1488,6 +1488,11 @@
   "additions": 15420,
   "deletions": 1283,
   "pushed_at": "2026-09-07T18:17:48Z"
+ },
+ "swipe-tidy": {
+  "additions": 42757,
+  "deletions": 1414,
+  "pushed_at": "2026-10-29T16:17:59Z"
  },
  "tarot-daily": {
   "additions": 625864,
@@ -1580,9 +1585,9 @@
   "pushed_at": "2022-03-15T12:09:42Z"
  },
  "warm-greetings": {
-  "additions": 108989,
-  "deletions": 6898,
-  "pushed_at": "2026-10-28T12:03:12Z"
+  "additions": 109830,
+  "deletions": 7030,
+  "pushed_at": "2026-10-29T13:05:39Z"
  },
  "web-beginner": {
   "additions": 4147,
@@ -1615,8 +1620,8 @@
   "pushed_at": "2026-08-29T02:15:40Z"
  },
  "zombie-salvage": {
-  "additions": 70045,
-  "deletions": 1974,
-  "pushed_at": "2026-10-28T08:58:04Z"
+  "additions": 72834,
+  "deletions": 2754,
+  "pushed_at": "2026-10-29T18:33:21Z"
  }
 }
