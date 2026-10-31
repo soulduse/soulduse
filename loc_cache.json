@@ -255,9 +255,9 @@
   "pushed_at": "2023-12-25T14:28:37Z"
  },
  "android-tts": {
-  "additions": 13218,
-  "deletions": 1339,
-  "pushed_at": "2026-10-29T05:13:51Z"
+  "additions": 31315,
+  "deletions": 13624,
+  "pushed_at": "2026-10-30T08:02:40Z"
  },
  "android-watch-tv-app": {
   "additions": 24183,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-10-29T15:42:54Z"
  },
  "apis-py": {
-  "additions": 755745,
-  "deletions": 38889,
-  "pushed_at": "2026-10-29T19:39:57Z"
+  "additions": 757253,
+  "deletions": 38928,
+  "pushed_at": "2026-10-30T16:50:09Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4272044,
+  "additions": 4291712,
   "deletions": 584040,
-  "pushed_at": "2026-10-29T22:58:23Z"
+  "pushed_at": "2026-10-30T22:55:19Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -377,7 +377,7 @@
  "blast-bloom": {
   "additions": 1290941,
   "deletions": 48917,
-  "pushed_at": "2026-10-29T17:29:25Z"
+  "pushed_at": "2026-10-30T06:17:57Z"
  },
  "board-apis": {
   "additions": 16353,
@@ -435,9 +435,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 398147,
-  "deletions": 57397,
-  "pushed_at": "2026-10-29T15:31:51Z"
+  "additions": 399112,
+  "deletions": 57995,
+  "pushed_at": "2026-10-30T12:33:19Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 41635,
-  "deletions": 2148,
-  "pushed_at": "2026-10-29T16:38:20Z"
+  "additions": 54141,
+  "deletions": 2971,
+  "pushed_at": "2026-10-30T23:04:50Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 601487,
-  "deletions": 78487,
-  "pushed_at": "2026-10-29T13:37:43Z"
+  "additions": 601898,
+  "deletions": 78554,
+  "pushed_at": "2026-10-30T16:49:11Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -1084,6 +1084,11 @@
   "deletions": 111,
   "pushed_at": "2025-02-24T12:13:06Z"
  },
+ "online-temple": {
+  "additions": 21835,
+  "deletions": 443,
+  "pushed_at": "2026-10-30T13:38:26Z"
+ },
  "open-vpn": {
   "additions": 195,
   "deletions": 12,
@@ -1120,9 +1125,9 @@
   "pushed_at": "2026-08-02T10:41:57Z"
  },
  "pixel-dog": {
-  "additions": 16794,
-  "deletions": 802,
-  "pushed_at": "2026-10-24T04:30:39Z"
+  "additions": 105233,
+  "deletions": 2564,
+  "pushed_at": "2026-10-30T13:26:34Z"
  },
  "pixel-glass-cam": {
   "additions": 11793,
@@ -1265,9 +1270,9 @@
   "pushed_at": "2026-10-13T13:04:00Z"
  },
  "sea-forager": {
-  "additions": 73913,
-  "deletions": 7687,
-  "pushed_at": "2026-10-29T16:57:24Z"
+  "additions": 75206,
+  "deletions": 7994,
+  "pushed_at": "2026-10-30T16:30:42Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1362,7 +1367,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-10-29T00:13:22Z"
+  "pushed_at": "2026-10-30T00:13:19Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1400,9 +1405,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 249321,
-  "deletions": 23607,
-  "pushed_at": "2026-10-29T01:42:50Z"
+  "additions": 249537,
+  "deletions": 23624,
+  "pushed_at": "2026-10-30T14:02:10Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1427,7 +1432,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-10-29T19:16:18Z"
+  "pushed_at": "2026-10-30T13:09:13Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1435,9 +1440,9 @@
   "pushed_at": "2024-11-08T14:35:56Z"
  },
  "stock-screener": {
-  "additions": 64150,
-  "deletions": 2551,
-  "pushed_at": "2026-10-02T12:33:02Z"
+  "additions": 65427,
+  "deletions": 2558,
+  "pushed_at": "2026-10-30T08:26:26Z"
  },
  "stock-tycoon": {
   "additions": 54074,
@@ -1490,9 +1495,9 @@
   "pushed_at": "2026-09-07T18:17:48Z"
  },
  "swipe-tidy": {
-  "additions": 42757,
-  "deletions": 1414,
-  "pushed_at": "2026-10-29T16:17:59Z"
+  "additions": 45713,
+  "deletions": 1436,
+  "pushed_at": "2026-10-30T12:42:21Z"
  },
  "tarot-daily": {
   "additions": 625864,
