@@ -137,7 +137,7 @@
  "android-chatgpt-base": {
   "additions": 75527,
   "deletions": 13561,
-  "pushed_at": "2026-10-22T11:21:51Z"
+  "pushed_at": "2026-10-31T07:42:48Z"
  },
  "android-clipboard": {
   "additions": 44613,
@@ -300,14 +300,14 @@
   "pushed_at": "2026-08-20T07:56:36Z"
  },
  "apis-frontend": {
-  "additions": 114209,
-  "deletions": 21797,
-  "pushed_at": "2026-10-29T15:42:54Z"
+  "additions": 114296,
+  "deletions": 21804,
+  "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 757253,
-  "deletions": 38928,
-  "pushed_at": "2026-10-30T16:50:09Z"
+  "additions": 767232,
+  "deletions": 39982,
+  "pushed_at": "2026-10-31T22:47:07Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4291712,
-  "deletions": 584040,
-  "pushed_at": "2026-10-30T22:55:19Z"
+  "additions": 4353134,
+  "deletions": 584051,
+  "pushed_at": "2026-10-31T22:55:03Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -435,9 +435,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 399112,
-  "deletions": 57995,
-  "pushed_at": "2026-10-30T12:33:19Z"
+  "additions": 399505,
+  "deletions": 58114,
+  "pushed_at": "2026-10-31T21:03:50Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 54141,
-  "deletions": 2971,
-  "pushed_at": "2026-10-30T23:04:50Z"
+  "additions": 57101,
+  "deletions": 5794,
+  "pushed_at": "2026-10-31T17:47:42Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 601898,
-  "deletions": 78554,
-  "pushed_at": "2026-10-30T16:49:11Z"
+  "additions": 614259,
+  "deletions": 79462,
+  "pushed_at": "2026-10-31T22:31:26Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -935,9 +935,9 @@
   "pushed_at": "2026-10-17T14:04:02Z"
  },
  "jelly-sort": {
-  "additions": 33611,
-  "deletions": 1797,
-  "pushed_at": "2026-10-29T16:46:26Z"
+  "additions": 34725,
+  "deletions": 1815,
+  "pushed_at": "2026-10-31T10:32:54Z"
  },
  "journey-map": {
   "additions": 20518,
@@ -1005,9 +1005,9 @@
   "pushed_at": "2025-10-13T06:43:10Z"
  },
  "meadow-keep": {
-  "additions": 636467,
-  "deletions": 34789,
-  "pushed_at": "2026-10-27T12:37:02Z"
+  "additions": 636507,
+  "deletions": 34828,
+  "pushed_at": "2026-10-31T13:23:25Z"
  },
  "mecha-defense": {
   "additions": 31258,
@@ -1085,9 +1085,9 @@
   "pushed_at": "2025-02-24T12:13:06Z"
  },
  "online-temple": {
-  "additions": 21835,
-  "deletions": 443,
-  "pushed_at": "2026-10-30T13:38:26Z"
+  "additions": 26686,
+  "deletions": 582,
+  "pushed_at": "2026-10-31T13:27:20Z"
  },
  "open-vpn": {
   "additions": 195,
@@ -1125,9 +1125,9 @@
   "pushed_at": "2026-08-02T10:41:57Z"
  },
  "pixel-dog": {
-  "additions": 105233,
-  "deletions": 2564,
-  "pushed_at": "2026-10-30T13:26:34Z"
+  "additions": 114738,
+  "deletions": 2655,
+  "pushed_at": "2026-10-31T13:42:53Z"
  },
  "pixel-glass-cam": {
   "additions": 11793,
@@ -1245,9 +1245,9 @@
   "pushed_at": "2023-01-23T14:40:16Z"
  },
  "screen-magnifier": {
-  "additions": 9026,
-  "deletions": 3403,
-  "pushed_at": "2026-08-08T16:24:56Z"
+  "additions": 9575,
+  "deletions": 3464,
+  "pushed_at": "2026-10-31T10:44:21Z"
  },
  "screen-pet-proto": {
   "additions": 1778565,
@@ -1367,7 +1367,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-10-30T00:13:19Z"
+  "pushed_at": "2026-10-31T00:10:57Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1405,9 +1405,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 249537,
-  "deletions": 23624,
-  "pushed_at": "2026-10-30T14:02:10Z"
+  "additions": 250076,
+  "deletions": 23636,
+  "pushed_at": "2026-10-31T23:02:56Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1432,7 +1432,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-10-30T13:09:13Z"
+  "pushed_at": "2026-10-31T11:28:31Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1445,9 +1445,9 @@
   "pushed_at": "2026-10-30T08:26:26Z"
  },
  "stock-tycoon": {
-  "additions": 54074,
-  "deletions": 4276,
-  "pushed_at": "2026-10-22T08:26:05Z"
+  "additions": 60636,
+  "deletions": 4684,
+  "pushed_at": "2026-10-31T09:33:43Z"
  },
  "store-automator": {
   "additions": 30427,
@@ -1495,9 +1495,9 @@
   "pushed_at": "2026-09-07T18:17:48Z"
  },
  "swipe-tidy": {
-  "additions": 45713,
-  "deletions": 1436,
-  "pushed_at": "2026-10-30T12:42:21Z"
+  "additions": 60066,
+  "deletions": 3182,
+  "pushed_at": "2026-10-31T13:54:04Z"
  },
  "tarot-daily": {
   "additions": 625864,
