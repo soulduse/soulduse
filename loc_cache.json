@@ -55,9 +55,9 @@
   "pushed_at": "2026-10-05T08:00:59Z"
  },
  "admob-pro-server": {
-  "additions": 221488,
-  "deletions": 35310,
-  "pushed_at": "2026-10-29T04:42:43Z"
+  "additions": 221614,
+  "deletions": 35448,
+  "pushed_at": "2026-11-01T03:55:35Z"
  },
  "admob-pro-server-py": {
   "additions": 126121,
@@ -285,9 +285,9 @@
   "pushed_at": "2016-02-27T02:18:07Z"
  },
  "animal-mart": {
-  "additions": 239876,
-  "deletions": 14224,
-  "pushed_at": "2026-10-29T04:40:08Z"
+  "additions": 244332,
+  "deletions": 14266,
+  "pushed_at": "2026-11-01T11:08:37Z"
  },
  "api-caller-py": {
   "additions": 106,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 767232,
-  "deletions": 39982,
-  "pushed_at": "2026-10-31T22:47:07Z"
+  "additions": 767844,
+  "deletions": 40006,
+  "pushed_at": "2026-11-01T12:19:07Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4353134,
+  "additions": 4353592,
   "deletions": 584051,
-  "pushed_at": "2026-10-31T22:55:03Z"
+  "pushed_at": "2026-11-01T22:54:53Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -435,9 +435,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 399505,
-  "deletions": 58114,
-  "pushed_at": "2026-10-31T21:03:50Z"
+  "additions": 400217,
+  "deletions": 58420,
+  "pushed_at": "2026-11-01T09:49:11Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 57101,
-  "deletions": 5794,
-  "pushed_at": "2026-10-31T17:47:42Z"
+  "additions": 66397,
+  "deletions": 6208,
+  "pushed_at": "2026-11-01T12:45:07Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -490,9 +490,9 @@
   "pushed_at": "2018-09-04T02:03:40Z"
  },
  "cozy-fishing": {
-  "additions": 56661,
-  "deletions": 2261,
-  "pushed_at": "2026-10-17T14:19:21Z"
+  "additions": 56990,
+  "deletions": 2285,
+  "pushed_at": "2026-11-01T03:22:55Z"
  },
  "crawling-node": {
   "additions": 5969,
@@ -517,7 +517,7 @@
  "dark-slayer": {
   "additions": 614259,
   "deletions": 79462,
-  "pushed_at": "2026-10-31T22:31:26Z"
+  "pushed_at": "2026-11-02T03:28:38Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -930,14 +930,14 @@
   "pushed_at": "2026-10-12T12:57:49Z"
  },
  "jelly-pet": {
-  "additions": 62822,
-  "deletions": 7250,
-  "pushed_at": "2026-10-17T14:04:02Z"
+  "additions": 63076,
+  "deletions": 14100,
+  "pushed_at": "2026-11-01T03:53:51Z"
  },
  "jelly-sort": {
-  "additions": 34725,
-  "deletions": 1815,
-  "pushed_at": "2026-10-31T10:32:54Z"
+  "additions": 34745,
+  "deletions": 1818,
+  "pushed_at": "2026-11-01T02:51:53Z"
  },
  "journey-map": {
   "additions": 20518,
@@ -1085,9 +1085,9 @@
   "pushed_at": "2025-02-24T12:13:06Z"
  },
  "online-temple": {
-  "additions": 26686,
-  "deletions": 582,
-  "pushed_at": "2026-10-31T13:27:20Z"
+  "additions": 27921,
+  "deletions": 700,
+  "pushed_at": "2026-11-01T09:09:16Z"
  },
  "open-vpn": {
   "additions": 195,
@@ -1125,9 +1125,9 @@
   "pushed_at": "2026-08-02T10:41:57Z"
  },
  "pixel-dog": {
-  "additions": 114738,
-  "deletions": 2655,
-  "pushed_at": "2026-10-31T13:42:53Z"
+  "additions": 125168,
+  "deletions": 4721,
+  "pushed_at": "2026-11-01T11:11:00Z"
  },
  "pixel-glass-cam": {
   "additions": 11793,
@@ -1165,9 +1165,9 @@
   "pushed_at": "2023-01-01T15:49:07Z"
  },
  "purr-cafe": {
-  "additions": 95967,
-  "deletions": 4652,
-  "pushed_at": "2026-10-17T14:19:19Z"
+  "additions": 96557,
+  "deletions": 4710,
+  "pushed_at": "2026-11-01T03:22:58Z"
  },
  "python-category-bot": {
   "additions": 381,
@@ -1250,9 +1250,9 @@
   "pushed_at": "2026-10-31T10:44:21Z"
  },
  "screen-pet-proto": {
-  "additions": 1778565,
-  "deletions": 52751,
-  "pushed_at": "2026-10-28T08:21:44Z"
+  "additions": 1781123,
+  "deletions": 53198,
+  "pushed_at": "2026-11-01T10:00:33Z"
  },
  "screenshot-work-backend": {
   "additions": 0,
@@ -1270,9 +1270,9 @@
   "pushed_at": "2026-10-13T13:04:00Z"
  },
  "sea-forager": {
-  "additions": 75206,
-  "deletions": 7994,
-  "pushed_at": "2026-10-30T16:30:42Z"
+  "additions": 80403,
+  "deletions": 8123,
+  "pushed_at": "2026-11-01T12:38:50Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1367,7 +1367,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-10-31T00:10:57Z"
+  "pushed_at": "2026-11-01T00:13:29Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1405,9 +1405,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 250076,
-  "deletions": 23636,
-  "pushed_at": "2026-10-31T23:02:56Z"
+  "additions": 250100,
+  "deletions": 23642,
+  "pushed_at": "2026-11-01T13:42:34Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1432,7 +1432,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-10-31T11:28:31Z"
+  "pushed_at": "2026-11-01T10:25:23Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1445,14 +1445,14 @@
   "pushed_at": "2026-10-30T08:26:26Z"
  },
  "stock-tycoon": {
-  "additions": 60636,
-  "deletions": 4684,
-  "pushed_at": "2026-10-31T09:33:43Z"
+  "additions": 62321,
+  "deletions": 4746,
+  "pushed_at": "2026-11-01T12:01:51Z"
  },
  "store-automator": {
-  "additions": 30427,
+  "additions": 30990,
   "deletions": 505,
-  "pushed_at": "2026-10-29T05:13:52Z"
+  "pushed_at": "2026-11-01T13:01:21Z"
  },
  "story-app-template": {
   "additions": 8796,
@@ -1495,9 +1495,9 @@
   "pushed_at": "2026-09-07T18:17:48Z"
  },
  "swipe-tidy": {
-  "additions": 60066,
-  "deletions": 3182,
-  "pushed_at": "2026-10-31T13:54:04Z"
+  "additions": 62610,
+  "deletions": 3979,
+  "pushed_at": "2026-11-01T11:25:52Z"
  },
  "tarot-daily": {
   "additions": 625864,
@@ -1510,9 +1510,9 @@
   "pushed_at": "2026-07-18T07:48:36Z"
  },
  "team-ai": {
-  "additions": 9105,
-  "deletions": 773,
-  "pushed_at": "2026-10-23T00:32:01Z"
+  "additions": 9176,
+  "deletions": 788,
+  "pushed_at": "2026-11-02T02:34:38Z"
  },
  "text-counter": {
   "additions": 1080,
