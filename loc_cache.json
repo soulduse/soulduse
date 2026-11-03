@@ -40,9 +40,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 246940,
-  "deletions": 61239,
-  "pushed_at": "2026-10-13T13:19:43Z"
+  "additions": 247029,
+  "deletions": 61329,
+  "pushed_at": "2026-11-02T13:12:42Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -55,9 +55,9 @@
   "pushed_at": "2026-10-05T08:00:59Z"
  },
  "admob-pro-server": {
-  "additions": 221614,
-  "deletions": 35448,
-  "pushed_at": "2026-11-01T03:55:35Z"
+  "additions": 222396,
+  "deletions": 35670,
+  "pushed_at": "2026-11-02T14:32:26Z"
  },
  "admob-pro-server-py": {
   "additions": 126121,
@@ -285,9 +285,9 @@
   "pushed_at": "2016-02-27T02:18:07Z"
  },
  "animal-mart": {
-  "additions": 244332,
-  "deletions": 14266,
-  "pushed_at": "2026-11-01T11:08:37Z"
+  "additions": 244810,
+  "deletions": 14267,
+  "pushed_at": "2026-11-02T14:02:51Z"
  },
  "api-caller-py": {
   "additions": 106,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 767844,
-  "deletions": 40006,
-  "pushed_at": "2026-11-01T12:19:07Z"
+  "additions": 776606,
+  "deletions": 40555,
+  "pushed_at": "2026-11-03T02:18:14Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4353592,
+  "additions": 4353990,
   "deletions": 584051,
-  "pushed_at": "2026-11-01T22:54:53Z"
+  "pushed_at": "2026-11-02T22:54:21Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -435,9 +435,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 400217,
-  "deletions": 58420,
-  "pushed_at": "2026-11-01T09:49:11Z"
+  "additions": 403761,
+  "deletions": 61269,
+  "pushed_at": "2026-11-03T02:18:27Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 66397,
-  "deletions": 6208,
-  "pushed_at": "2026-11-01T12:45:07Z"
+  "additions": 66398,
+  "deletions": 6209,
+  "pushed_at": "2026-11-02T11:51:47Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -490,9 +490,9 @@
   "pushed_at": "2018-09-04T02:03:40Z"
  },
  "cozy-fishing": {
-  "additions": 56990,
+  "additions": 57006,
   "deletions": 2285,
-  "pushed_at": "2026-11-01T03:22:55Z"
+  "pushed_at": "2026-11-02T09:25:25Z"
  },
  "crawling-node": {
   "additions": 5969,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 614259,
-  "deletions": 79462,
-  "pushed_at": "2026-11-02T03:28:38Z"
+  "additions": 1598138,
+  "deletions": 99563,
+  "pushed_at": "2026-11-03T02:41:29Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -989,6 +989,11 @@
   "deletions": 340,
   "pushed_at": "2025-09-12T10:25:25Z"
  },
+ "line-surf": {
+  "additions": 0,
+  "deletions": 0,
+  "pushed_at": "2026-11-02T04:13:00Z"
+ },
  "lotto-machine": {
   "additions": 70699,
   "deletions": 9171,
@@ -1010,9 +1015,9 @@
   "pushed_at": "2026-10-31T13:23:25Z"
  },
  "mecha-defense": {
-  "additions": 31258,
-  "deletions": 3820,
-  "pushed_at": "2026-10-29T15:38:23Z"
+  "additions": 31427,
+  "deletions": 3876,
+  "pushed_at": "2026-11-02T09:35:55Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1085,9 +1090,9 @@
   "pushed_at": "2025-02-24T12:13:06Z"
  },
  "online-temple": {
-  "additions": 27921,
-  "deletions": 700,
-  "pushed_at": "2026-11-01T09:09:16Z"
+  "additions": 84592,
+  "deletions": 2517,
+  "pushed_at": "2026-11-02T14:18:10Z"
  },
  "open-vpn": {
   "additions": 195,
@@ -1125,9 +1130,9 @@
   "pushed_at": "2026-08-02T10:41:57Z"
  },
  "pixel-dog": {
-  "additions": 125168,
-  "deletions": 4721,
-  "pushed_at": "2026-11-01T11:11:00Z"
+  "additions": 127887,
+  "deletions": 5504,
+  "pushed_at": "2026-11-02T17:43:43Z"
  },
  "pixel-glass-cam": {
   "additions": 11793,
@@ -1250,9 +1255,9 @@
   "pushed_at": "2026-10-31T10:44:21Z"
  },
  "screen-pet-proto": {
-  "additions": 1781123,
-  "deletions": 53198,
-  "pushed_at": "2026-11-01T10:00:33Z"
+  "additions": 1782008,
+  "deletions": 53397,
+  "pushed_at": "2026-11-02T16:34:44Z"
  },
  "screenshot-work-backend": {
   "additions": 0,
@@ -1270,9 +1275,9 @@
   "pushed_at": "2026-10-13T13:04:00Z"
  },
  "sea-forager": {
-  "additions": 80403,
-  "deletions": 8123,
-  "pushed_at": "2026-11-01T12:38:50Z"
+  "additions": 81174,
+  "deletions": 8129,
+  "pushed_at": "2026-11-02T15:42:15Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1367,7 +1372,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-01T00:13:29Z"
+  "pushed_at": "2026-11-02T03:47:31Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1405,9 +1410,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 250100,
-  "deletions": 23642,
-  "pushed_at": "2026-11-01T13:42:34Z"
+  "additions": 250299,
+  "deletions": 23671,
+  "pushed_at": "2026-11-02T23:34:51Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1432,7 +1437,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-01T10:25:23Z"
+  "pushed_at": "2026-11-02T07:33:38Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1445,9 +1450,9 @@
   "pushed_at": "2026-10-30T08:26:26Z"
  },
  "stock-tycoon": {
-  "additions": 62321,
-  "deletions": 4746,
-  "pushed_at": "2026-11-01T12:01:51Z"
+  "additions": 62335,
+  "deletions": 4754,
+  "pushed_at": "2026-11-02T09:28:35Z"
  },
  "store-automator": {
   "additions": 30990,
@@ -1495,9 +1500,9 @@
   "pushed_at": "2026-09-07T18:17:48Z"
  },
  "swipe-tidy": {
-  "additions": 62610,
-  "deletions": 3979,
-  "pushed_at": "2026-11-01T11:25:52Z"
+  "additions": 62612,
+  "deletions": 3983,
+  "pushed_at": "2026-11-02T03:51:23Z"
  },
  "tarot-daily": {
   "additions": 625864,
@@ -1510,9 +1515,9 @@
   "pushed_at": "2026-07-18T07:48:36Z"
  },
  "team-ai": {
-  "additions": 9176,
-  "deletions": 788,
-  "pushed_at": "2026-11-02T02:34:38Z"
+  "additions": 9247,
+  "deletions": 830,
+  "pushed_at": "2026-11-02T14:43:25Z"
  },
  "text-counter": {
   "additions": 1080,
@@ -1625,8 +1630,8 @@
   "pushed_at": "2026-08-29T02:15:40Z"
  },
  "zombie-salvage": {
-  "additions": 72834,
-  "deletions": 2754,
-  "pushed_at": "2026-10-29T18:33:21Z"
+  "additions": 74685,
+  "deletions": 3221,
+  "pushed_at": "2026-11-02T10:06:24Z"
  }
 }
