@@ -55,9 +55,9 @@
   "pushed_at": "2026-10-05T08:00:59Z"
  },
  "admob-pro-server": {
-  "additions": 222849,
-  "deletions": 35690,
-  "pushed_at": "2026-11-04T10:02:00Z"
+  "additions": 223259,
+  "deletions": 35742,
+  "pushed_at": "2026-11-05T08:49:25Z"
  },
  "admob-pro-server-py": {
   "additions": 126171,
@@ -82,7 +82,7 @@
  "ai-token-monitor": {
   "additions": 62674,
   "deletions": 8580,
-  "pushed_at": "2026-10-27T13:32:16Z"
+  "pushed_at": "2026-11-05T09:46:13Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -305,9 +305,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 793928,
-  "deletions": 41161,
-  "pushed_at": "2026-11-05T03:58:18Z"
+  "additions": 795082,
+  "deletions": 41246,
+  "pushed_at": "2026-11-06T01:07:17Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4354468,
+  "additions": 4354713,
   "deletions": 584051,
-  "pushed_at": "2026-11-04T22:50:45Z"
+  "pushed_at": "2026-11-05T22:51:25Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1616455,
-  "deletions": 101268,
-  "pushed_at": "2026-11-05T04:16:37Z"
+  "additions": 1619611,
+  "deletions": 101501,
+  "pushed_at": "2026-11-06T01:56:50Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -990,9 +990,9 @@
   "pushed_at": "2025-09-12T10:25:25Z"
  },
  "line-surf": {
-  "additions": 21020,
-  "deletions": 1947,
-  "pushed_at": "2026-11-04T14:58:23Z"
+  "additions": 26720,
+  "deletions": 2084,
+  "pushed_at": "2026-11-06T01:16:21Z"
  },
  "lotto-machine": {
   "additions": 70699,
@@ -1015,9 +1015,9 @@
   "pushed_at": "2026-10-31T13:23:25Z"
  },
  "mecha-defense": {
-  "additions": 31449,
-  "deletions": 3893,
-  "pushed_at": "2026-11-04T10:00:11Z"
+  "additions": 31835,
+  "deletions": 3987,
+  "pushed_at": "2026-11-05T13:54:51Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1090,9 +1090,9 @@
   "pushed_at": "2025-02-24T12:13:06Z"
  },
  "online-temple": {
-  "additions": 105500,
-  "deletions": 3412,
-  "pushed_at": "2026-11-04T14:35:53Z"
+  "additions": 108221,
+  "deletions": 3729,
+  "pushed_at": "2026-11-05T12:41:15Z"
  },
  "open-vpn": {
   "additions": 195,
@@ -1255,9 +1255,9 @@
   "pushed_at": "2026-10-31T10:44:21Z"
  },
  "screen-pet-proto": {
-  "additions": 1782015,
-  "deletions": 53397,
-  "pushed_at": "2026-11-03T05:45:00Z"
+  "additions": 1782468,
+  "deletions": 53409,
+  "pushed_at": "2026-11-06T01:18:27Z"
  },
  "screenshot-work-backend": {
   "additions": 0,
@@ -1270,14 +1270,14 @@
   "pushed_at": "2025-08-14T09:50:10Z"
  },
  "screenshots-hub": {
-  "additions": 72915,
-  "deletions": 3861,
-  "pushed_at": "2026-10-13T13:04:00Z"
+  "additions": 78486,
+  "deletions": 8133,
+  "pushed_at": "2026-11-06T01:26:57Z"
  },
  "sea-forager": {
-  "additions": 84885,
-  "deletions": 8881,
-  "pushed_at": "2026-11-04T15:29:04Z"
+  "additions": 86718,
+  "deletions": 9006,
+  "pushed_at": "2026-11-06T01:53:33Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1372,7 +1372,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-04T04:18:52Z"
+  "pushed_at": "2026-11-05T04:36:53Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1410,9 +1410,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 251347,
+  "additions": 252655,
   "deletions": 23706,
-  "pushed_at": "2026-11-04T11:16:04Z"
+  "pushed_at": "2026-11-05T12:04:19Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1437,7 +1437,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-04T14:42:30Z"
+  "pushed_at": "2026-11-05T08:13:47Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1450,9 +1450,9 @@
   "pushed_at": "2026-10-30T08:26:26Z"
  },
  "stock-tycoon": {
-  "additions": 65729,
-  "deletions": 5064,
-  "pushed_at": "2026-11-04T15:00:39Z"
+  "additions": 65804,
+  "deletions": 5070,
+  "pushed_at": "2026-11-06T01:45:41Z"
  },
  "store-automator": {
   "additions": 30990,
