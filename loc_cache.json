@@ -305,9 +305,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 795082,
-  "deletions": 41246,
-  "pushed_at": "2026-11-06T01:07:17Z"
+  "additions": 795239,
+  "deletions": 41253,
+  "pushed_at": "2026-11-07T03:31:40Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -315,9 +315,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4354713,
+  "additions": 4355225,
   "deletions": 584051,
-  "pushed_at": "2026-11-05T22:51:25Z"
+  "pushed_at": "2026-11-06T22:55:18Z"
  },
  "app-factory-meta": {
   "additions": 43769,
@@ -377,7 +377,7 @@
  "blast-bloom": {
   "additions": 1290941,
   "deletions": 48917,
-  "pushed_at": "2026-10-30T06:17:57Z"
+  "pushed_at": "2026-11-06T12:26:13Z"
  },
  "board-apis": {
   "additions": 16353,
@@ -450,9 +450,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 78152,
-  "deletions": 6590,
-  "pushed_at": "2026-11-04T09:41:00Z"
+  "additions": 83945,
+  "deletions": 6708,
+  "pushed_at": "2026-11-06T11:07:44Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -515,9 +515,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1619611,
-  "deletions": 101501,
-  "pushed_at": "2026-11-06T01:56:50Z"
+  "additions": 1622478,
+  "deletions": 102036,
+  "pushed_at": "2026-11-07T03:28:10Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -1015,9 +1015,9 @@
   "pushed_at": "2026-10-31T13:23:25Z"
  },
  "mecha-defense": {
-  "additions": 31835,
-  "deletions": 3987,
-  "pushed_at": "2026-11-05T13:54:51Z"
+  "additions": 33810,
+  "deletions": 4468,
+  "pushed_at": "2026-11-06T12:31:52Z"
  },
  "minecraft": {
   "additions": 6678,
@@ -1090,9 +1090,9 @@
   "pushed_at": "2025-02-24T12:13:06Z"
  },
  "online-temple": {
-  "additions": 108221,
-  "deletions": 3729,
-  "pushed_at": "2026-11-05T12:41:15Z"
+  "additions": 111365,
+  "deletions": 3869,
+  "pushed_at": "2026-11-06T15:34:12Z"
  },
  "open-vpn": {
   "additions": 195,
@@ -1164,6 +1164,11 @@
   "deletions": 541,
   "pushed_at": "2026-04-09T12:45:56Z"
  },
+ "promo-video": {
+  "additions": 66261,
+  "deletions": 7,
+  "pushed_at": "2026-11-07T02:15:29Z"
+ },
  "promotion-food-app": {
   "additions": 10756,
   "deletions": 4097,
@@ -1225,9 +1230,9 @@
   "pushed_at": "2026-10-27T01:38:42Z"
  },
  "rich-server": {
-  "additions": 167176,
-  "deletions": 56162,
-  "pushed_at": "2026-11-04T14:06:32Z"
+  "additions": 167293,
+  "deletions": 56193,
+  "pushed_at": "2026-11-07T02:04:56Z"
  },
  "rich-server-build-frontend": {
   "additions": 13035,
@@ -1270,14 +1275,14 @@
   "pushed_at": "2025-08-14T09:50:10Z"
  },
  "screenshots-hub": {
-  "additions": 78486,
-  "deletions": 8133,
-  "pushed_at": "2026-11-06T01:26:57Z"
+  "additions": 78872,
+  "deletions": 8309,
+  "pushed_at": "2026-11-06T13:04:44Z"
  },
  "sea-forager": {
-  "additions": 86718,
-  "deletions": 9006,
-  "pushed_at": "2026-11-06T01:53:33Z"
+  "additions": 87361,
+  "deletions": 9026,
+  "pushed_at": "2026-11-06T12:51:11Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1372,7 +1377,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-05T04:36:53Z"
+  "pushed_at": "2026-11-06T04:35:07Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1410,9 +1415,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 252655,
-  "deletions": 23706,
-  "pushed_at": "2026-11-05T12:04:19Z"
+  "additions": 254285,
+  "deletions": 24029,
+  "pushed_at": "2026-11-06T11:01:58Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1430,14 +1435,14 @@
   "pushed_at": "2026-03-18T11:32:34Z"
  },
  "stock-app-build-v1": {
-  "additions": 133134,
-  "deletions": 16943,
-  "pushed_at": "2026-10-19T01:06:02Z"
+  "additions": 133200,
+  "deletions": 16980,
+  "pushed_at": "2026-11-07T02:04:59Z"
  },
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-05T08:13:47Z"
+  "pushed_at": "2026-11-06T13:11:23Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1447,12 +1452,12 @@
  "stock-screener": {
   "additions": 65427,
   "deletions": 2558,
-  "pushed_at": "2026-10-30T08:26:26Z"
+  "pushed_at": "2026-11-06T13:23:14Z"
  },
  "stock-tycoon": {
-  "additions": 65804,
-  "deletions": 5070,
-  "pushed_at": "2026-11-06T01:45:41Z"
+  "additions": 65942,
+  "deletions": 5088,
+  "pushed_at": "2026-11-06T12:59:00Z"
  },
  "store-automator": {
   "additions": 30990,
