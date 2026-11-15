@@ -60,14 +60,14 @@
   "pushed_at": "2026-11-12T09:56:44Z"
  },
  "admob-pro-server-py": {
-  "additions": 164745,
-  "deletions": 3757,
-  "pushed_at": "2026-11-14T03:50:00Z"
+  "additions": 165192,
+  "deletions": 3825,
+  "pushed_at": "2026-11-15T03:33:43Z"
  },
  "ads-lab": {
-  "additions": 4426,
-  "deletions": 66,
-  "pushed_at": "2026-11-12T03:47:44Z"
+  "additions": 5459,
+  "deletions": 98,
+  "pushed_at": "2026-11-14T06:49:21Z"
  },
  "ai-db": {
   "additions": 41511,
@@ -85,9 +85,9 @@
   "pushed_at": "2024-12-11T04:22:50Z"
  },
  "ai-token-monitor": {
-  "additions": 62867,
-  "deletions": 8622,
-  "pushed_at": "2026-11-10T13:57:19Z"
+  "additions": 63332,
+  "deletions": 8689,
+  "pushed_at": "2026-11-14T08:45:12Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -310,9 +310,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 841306,
-  "deletions": 43923,
-  "pushed_at": "2026-11-14T04:18:18Z"
+  "additions": 858039,
+  "deletions": 45802,
+  "pushed_at": "2026-11-15T02:43:29Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -320,14 +320,14 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4715037,
-  "deletions": 584308,
-  "pushed_at": "2026-11-13T23:03:52Z"
+  "additions": 4718213,
+  "deletions": 584803,
+  "pushed_at": "2026-11-14T23:00:49Z"
  },
  "app-factory-meta": {
-  "additions": 78025,
-  "deletions": 284,
-  "pushed_at": "2026-11-14T02:28:05Z"
+  "additions": 78193,
+  "deletions": 328,
+  "pushed_at": "2026-11-15T02:04:15Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -525,9 +525,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1728179,
-  "deletions": 172728,
-  "pushed_at": "2026-11-14T04:23:09Z"
+  "additions": 1732024,
+  "deletions": 173474,
+  "pushed_at": "2026-11-15T03:50:55Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -1020,9 +1020,9 @@
   "pushed_at": "2025-10-13T06:43:10Z"
  },
  "meadow-keep": {
-  "additions": 666449,
-  "deletions": 39891,
-  "pushed_at": "2026-11-12T03:18:41Z"
+  "additions": 667017,
+  "deletions": 40079,
+  "pushed_at": "2026-11-15T01:54:59Z"
  },
  "mecha-defense": {
   "additions": 34015,
@@ -1175,9 +1175,9 @@
   "pushed_at": "2026-04-09T12:45:56Z"
  },
  "promo-video": {
-  "additions": 69024,
-  "deletions": 46,
-  "pushed_at": "2026-11-14T04:17:00Z"
+  "additions": 70409,
+  "deletions": 66,
+  "pushed_at": "2026-11-14T11:29:28Z"
  },
  "promotion-food-app": {
   "additions": 10756,
@@ -1290,9 +1290,9 @@
   "pushed_at": "2026-11-13T12:54:49Z"
  },
  "sea-forager": {
-  "additions": 114205,
-  "deletions": 11092,
-  "pushed_at": "2026-11-13T13:54:51Z"
+  "additions": 114869,
+  "deletions": 11209,
+  "pushed_at": "2026-11-14T06:21:04Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1387,7 +1387,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-13T04:30:20Z"
+  "pushed_at": "2026-11-14T04:26:24Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1425,9 +1425,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 257922,
-  "deletions": 24437,
-  "pushed_at": "2026-11-12T10:11:34Z"
+  "additions": 258136,
+  "deletions": 24465,
+  "pushed_at": "2026-11-14T13:09:42Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1435,9 +1435,9 @@
   "pushed_at": "2026-07-02T08:00:01Z"
  },
  "stock-analyzer": {
-  "additions": 92852,
-  "deletions": 5531,
-  "pushed_at": "2026-11-14T04:23:02Z"
+  "additions": 92855,
+  "deletions": 5533,
+  "pushed_at": "2026-11-14T06:37:02Z"
  },
  "stock-app-admin": {
   "additions": 9678,
@@ -1530,9 +1530,9 @@
   "pushed_at": "2026-07-18T07:48:36Z"
  },
  "team-ai": {
-  "additions": 9247,
-  "deletions": 830,
-  "pushed_at": "2026-11-02T14:43:25Z"
+  "additions": 9265,
+  "deletions": 842,
+  "pushed_at": "2026-11-14T07:52:45Z"
  },
  "text-counter": {
   "additions": 1080,
@@ -1590,9 +1590,9 @@
   "pushed_at": "2023-12-15T13:13:17Z"
  },
  "tw-stock-daily": {
-  "additions": 25533,
-  "deletions": 871,
-  "pushed_at": "2026-11-11T03:46:49Z"
+  "additions": 27035,
+  "deletions": 1033,
+  "pushed_at": "2026-11-14T11:18:48Z"
  },
  "video-ad-generator": {
   "additions": 9373,
