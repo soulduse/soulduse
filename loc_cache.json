@@ -60,9 +60,9 @@
   "pushed_at": "2026-11-12T09:56:44Z"
  },
  "admob-pro-server-py": {
-  "additions": 165192,
-  "deletions": 3825,
-  "pushed_at": "2026-11-15T03:33:43Z"
+  "additions": 168058,
+  "deletions": 3943,
+  "pushed_at": "2026-11-16T02:58:43Z"
  },
  "ads-lab": {
   "additions": 5459,
@@ -87,7 +87,7 @@
  "ai-token-monitor": {
   "additions": 63332,
   "deletions": 8689,
-  "pushed_at": "2026-11-14T08:45:12Z"
+  "pushed_at": "2026-11-16T00:31:16Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -310,9 +310,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 858039,
-  "deletions": 45802,
-  "pushed_at": "2026-11-15T02:43:29Z"
+  "additions": 860079,
+  "deletions": 45946,
+  "pushed_at": "2026-11-16T02:47:12Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -320,14 +320,14 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 4718213,
-  "deletions": 584803,
-  "pushed_at": "2026-11-14T23:00:49Z"
+  "additions": 5223350,
+  "deletions": 596539,
+  "pushed_at": "2026-11-16T00:43:43Z"
  },
  "app-factory-meta": {
-  "additions": 78193,
-  "deletions": 328,
-  "pushed_at": "2026-11-15T02:04:15Z"
+  "additions": 78198,
+  "deletions": 333,
+  "pushed_at": "2026-11-15T10:01:29Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -460,9 +460,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 140291,
-  "deletions": 8306,
-  "pushed_at": "2026-11-13T10:03:03Z"
+  "additions": 140293,
+  "deletions": 8308,
+  "pushed_at": "2026-11-15T09:30:32Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -525,9 +525,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1732024,
-  "deletions": 173474,
-  "pushed_at": "2026-11-15T03:50:55Z"
+  "additions": 1735359,
+  "deletions": 173567,
+  "pushed_at": "2026-11-16T04:02:17Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -804,6 +804,11 @@
   "deletions": 6,
   "pushed_at": "2023-03-17T14:09:22Z"
  },
+ "gwanjesil": {
+  "additions": 4028,
+  "deletions": 17,
+  "pushed_at": "2026-11-15T11:08:53Z"
+ },
  "hangul-keyboard": {
   "additions": 11092,
   "deletions": 438,
@@ -835,9 +840,9 @@
   "pushed_at": "2019-01-03T16:10:35Z"
  },
  "idea-lab": {
-  "additions": 23749,
-  "deletions": 1218,
-  "pushed_at": "2026-10-15T09:22:52Z"
+  "additions": 23750,
+  "deletions": 1219,
+  "pushed_at": "2026-11-16T00:43:45Z"
  },
  "infinite-buying-bot": {
   "additions": 2179,
@@ -930,9 +935,9 @@
   "pushed_at": "2017-06-27T12:21:34Z"
  },
  "javis": {
-  "additions": 12034,
-  "deletions": 626,
-  "pushed_at": "2026-10-29T10:33:20Z"
+  "additions": 12143,
+  "deletions": 628,
+  "pushed_at": "2026-11-15T09:39:27Z"
  },
  "jelly-lab-web": {
   "additions": 57252,
@@ -1020,9 +1025,9 @@
   "pushed_at": "2025-10-13T06:43:10Z"
  },
  "meadow-keep": {
-  "additions": 667017,
-  "deletions": 40079,
-  "pushed_at": "2026-11-15T01:54:59Z"
+  "additions": 668254,
+  "deletions": 40190,
+  "pushed_at": "2026-11-15T11:34:41Z"
  },
  "mecha-defense": {
   "additions": 34015,
@@ -1175,9 +1180,9 @@
   "pushed_at": "2026-04-09T12:45:56Z"
  },
  "promo-video": {
-  "additions": 70409,
-  "deletions": 66,
-  "pushed_at": "2026-11-14T11:29:28Z"
+  "additions": 70410,
+  "deletions": 67,
+  "pushed_at": "2026-11-16T00:45:45Z"
  },
  "promotion-food-app": {
   "additions": 10756,
@@ -1285,9 +1290,9 @@
   "pushed_at": "2025-08-14T09:50:10Z"
  },
  "screenshots-hub": {
-  "additions": 111555,
-  "deletions": 10030,
-  "pushed_at": "2026-11-13T12:54:49Z"
+  "additions": 111572,
+  "deletions": 10047,
+  "pushed_at": "2026-11-15T09:30:40Z"
  },
  "sea-forager": {
   "additions": 114869,
@@ -1387,7 +1392,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-14T04:26:24Z"
+  "pushed_at": "2026-11-15T04:12:16Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1425,9 +1430,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 258136,
-  "deletions": 24465,
-  "pushed_at": "2026-11-14T13:09:42Z"
+  "additions": 258267,
+  "deletions": 24536,
+  "pushed_at": "2026-11-16T04:05:02Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1452,7 +1457,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-09T13:37:03Z"
+  "pushed_at": "2026-11-16T01:18:46Z"
  },
  "stock-girl-project": {
   "additions": 20424,
