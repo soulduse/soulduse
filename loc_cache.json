@@ -40,9 +40,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 253454,
-  "deletions": 62581,
-  "pushed_at": "2026-11-21T00:24:35Z"
+  "additions": 253805,
+  "deletions": 62752,
+  "pushed_at": "2026-11-22T01:33:02Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -50,9 +50,9 @@
   "pushed_at": "2025-12-31T21:11:21Z"
  },
  "admob-pro-android-v2": {
-  "additions": 74531,
-  "deletions": 6170,
-  "pushed_at": "2026-11-20T06:12:26Z"
+  "additions": 74543,
+  "deletions": 6177,
+  "pushed_at": "2026-11-22T01:13:40Z"
  },
  "admob-pro-server": {
   "additions": 226059,
@@ -60,14 +60,14 @@
   "pushed_at": "2026-11-17T04:58:55Z"
  },
  "admob-pro-server-py": {
-  "additions": 188087,
-  "deletions": 8269,
-  "pushed_at": "2026-11-21T00:20:02Z"
+  "additions": 189009,
+  "deletions": 8338,
+  "pushed_at": "2026-11-22T01:12:56Z"
  },
  "ads-lab": {
-  "additions": 5629,
-  "deletions": 152,
-  "pushed_at": "2026-11-18T03:28:45Z"
+  "additions": 6079,
+  "deletions": 206,
+  "pushed_at": "2026-11-21T11:15:32Z"
  },
  "ai-db": {
   "additions": 41511,
@@ -85,9 +85,9 @@
   "pushed_at": "2024-12-11T04:22:50Z"
  },
  "ai-token-monitor": {
-  "additions": 64005,
-  "deletions": 8923,
-  "pushed_at": "2026-11-21T02:19:27Z"
+  "additions": 64426,
+  "deletions": 8974,
+  "pushed_at": "2026-11-21T05:56:28Z"
  },
  "aireal-scout": {
   "additions": 1396,
@@ -310,9 +310,9 @@
   "pushed_at": "2026-10-31T12:47:41Z"
  },
  "apis-py": {
-  "additions": 885538,
-  "deletions": 47006,
-  "pushed_at": "2026-11-20T20:13:22Z"
+  "additions": 888615,
+  "deletions": 47088,
+  "pushed_at": "2026-11-22T02:26:12Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -320,14 +320,14 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 5225757,
-  "deletions": 596593,
-  "pushed_at": "2026-11-20T23:09:01Z"
+  "additions": 5226363,
+  "deletions": 596608,
+  "pushed_at": "2026-11-21T23:09:47Z"
  },
  "app-factory-meta": {
-  "additions": 79185,
-  "deletions": 345,
-  "pushed_at": "2026-11-21T02:16:04Z"
+  "additions": 79625,
+  "deletions": 349,
+  "pushed_at": "2026-11-22T01:13:57Z"
  },
  "app-hunter": {
   "additions": 0,
@@ -460,9 +460,9 @@
   "pushed_at": "2021-09-03T16:42:37Z"
  },
  "certprep": {
-  "additions": 153616,
-  "deletions": 8517,
-  "pushed_at": "2026-11-20T01:25:13Z"
+  "additions": 174400,
+  "deletions": 9179,
+  "pushed_at": "2026-11-21T15:44:49Z"
  },
  "chat-gpt-api": {
   "additions": 354,
@@ -525,9 +525,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1752061,
-  "deletions": 212168,
-  "pushed_at": "2026-11-21T03:20:28Z"
+  "additions": 1754230,
+  "deletions": 212505,
+  "pushed_at": "2026-11-22T04:18:14Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -650,9 +650,9 @@
   "pushed_at": "2026-08-04T12:51:55Z"
  },
  "flutter-lh-information-3": {
-  "additions": 35181,
-  "deletions": 13316,
-  "pushed_at": "2026-11-19T04:45:04Z"
+  "additions": 35560,
+  "deletions": 13391,
+  "pushed_at": "2026-11-21T06:57:36Z"
  },
  "flutter-lh-information-4": {
   "additions": 16529,
@@ -825,9 +825,9 @@
   "pushed_at": "2026-04-08T02:09:00Z"
  },
  "herdr-config": {
-  "additions": 8777,
-  "deletions": 571,
-  "pushed_at": "2026-11-21T03:24:15Z"
+  "additions": 9459,
+  "deletions": 816,
+  "pushed_at": "2026-11-22T02:01:16Z"
  },
  "hot-keyword-tube": {
   "additions": 10899,
@@ -845,9 +845,9 @@
   "pushed_at": "2019-01-03T16:10:35Z"
  },
  "idea-lab": {
-  "additions": 23750,
-  "deletions": 1219,
-  "pushed_at": "2026-11-16T00:43:45Z"
+  "additions": 24228,
+  "deletions": 1258,
+  "pushed_at": "2026-11-21T07:48:37Z"
  },
  "infinite-buying-bot": {
   "additions": 2179,
@@ -940,9 +940,9 @@
   "pushed_at": "2017-06-27T12:21:34Z"
  },
  "javis": {
-  "additions": 12143,
-  "deletions": 628,
-  "pushed_at": "2026-11-15T09:39:27Z"
+  "additions": 12549,
+  "deletions": 629,
+  "pushed_at": "2026-11-21T10:20:44Z"
  },
  "jelly-lab-web": {
   "additions": 57252,
@@ -1015,9 +1015,9 @@
   "pushed_at": "2026-11-13T04:25:41Z"
  },
  "lotto-machine": {
-  "additions": 70699,
-  "deletions": 9171,
-  "pushed_at": "2026-10-25T03:55:58Z"
+  "additions": 79607,
+  "deletions": 9984,
+  "pushed_at": "2026-11-21T08:34:13Z"
  },
  "mac-clipboard": {
   "additions": 51194,
@@ -1229,6 +1229,11 @@
   "deletions": 12348,
   "pushed_at": "2026-09-01T13:45:56Z"
  },
+ "realcat-lab": {
+  "additions": 9440,
+  "deletions": 0,
+  "pushed_at": "2026-11-21T08:05:26Z"
+ },
  "realtv-android": {
   "additions": 18710,
   "deletions": 927,
@@ -1295,14 +1300,14 @@
   "pushed_at": "2025-08-14T09:50:10Z"
  },
  "screenshots-hub": {
-  "additions": 113205,
+  "additions": 114017,
   "deletions": 10806,
-  "pushed_at": "2026-11-19T04:37:52Z"
+  "pushed_at": "2026-11-22T01:10:56Z"
  },
  "sea-forager": {
-  "additions": 114869,
-  "deletions": 11209,
-  "pushed_at": "2026-11-14T06:21:04Z"
+  "additions": 138603,
+  "deletions": 14593,
+  "pushed_at": "2026-11-22T04:19:25Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1397,7 +1402,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-20T05:11:47Z"
+  "pushed_at": "2026-11-21T05:04:12Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1462,7 +1467,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-19T15:57:30Z"
+  "pushed_at": "2026-11-21T05:18:50Z"
  },
  "stock-girl-project": {
   "additions": 20424,
@@ -1540,9 +1545,9 @@
   "pushed_at": "2026-07-18T07:48:36Z"
  },
  "team-ai": {
-  "additions": 10698,
-  "deletions": 1017,
-  "pushed_at": "2026-11-20T04:56:20Z"
+  "additions": 11609,
+  "deletions": 1182,
+  "pushed_at": "2026-11-22T03:22:06Z"
  },
  "text-counter": {
   "additions": 1080,
@@ -1605,9 +1610,9 @@
   "pushed_at": "2026-11-14T11:18:48Z"
  },
  "type16": {
-  "additions": 82818,
-  "deletions": 5336,
-  "pushed_at": "2026-11-21T04:42:44Z"
+  "additions": 179659,
+  "deletions": 7467,
+  "pushed_at": "2026-11-22T03:37:11Z"
  },
  "video-ad-generator": {
   "additions": 9373,
