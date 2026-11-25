@@ -40,9 +40,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 253830,
-  "deletions": 62783,
-  "pushed_at": "2026-11-23T06:05:17Z"
+  "additions": 253950,
+  "deletions": 62816,
+  "pushed_at": "2026-11-24T08:58:27Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -60,9 +60,9 @@
   "pushed_at": "2026-11-17T04:58:55Z"
  },
  "admob-pro-server-py": {
-  "additions": 191866,
-  "deletions": 8352,
-  "pushed_at": "2026-11-23T10:38:42Z"
+  "additions": 192093,
+  "deletions": 8371,
+  "pushed_at": "2026-11-24T08:58:16Z"
  },
  "ads-lab": {
   "additions": 6079,
@@ -310,9 +310,9 @@
   "pushed_at": "2026-11-23T07:26:05Z"
  },
  "apis-py": {
-  "additions": 957218,
-  "deletions": 51963,
-  "pushed_at": "2026-11-24T06:07:26Z"
+  "additions": 959026,
+  "deletions": 52094,
+  "pushed_at": "2026-11-25T01:26:11Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -320,9 +320,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 5227080,
+  "additions": 5227513,
   "deletions": 596608,
-  "pushed_at": "2026-11-23T23:08:06Z"
+  "pushed_at": "2026-11-24T23:07:22Z"
  },
  "app-factory-meta": {
   "additions": 79625,
@@ -445,9 +445,9 @@
   "pushed_at": "2024-08-09T04:51:26Z"
  },
  "born-again": {
-  "additions": 428487,
-  "deletions": 64961,
-  "pushed_at": "2026-11-18T13:19:57Z"
+  "additions": 463722,
+  "deletions": 73539,
+  "pushed_at": "2026-11-24T14:59:33Z"
  },
  "cafe24-kevin": {
   "additions": 9073,
@@ -500,9 +500,9 @@
   "pushed_at": "2018-09-04T02:03:40Z"
  },
  "cozy-fishing": {
-  "additions": 57006,
-  "deletions": 2285,
-  "pushed_at": "2026-11-02T09:25:25Z"
+  "additions": 107188,
+  "deletions": 4907,
+  "pushed_at": "2026-11-24T13:13:28Z"
  },
  "crawling-node": {
   "additions": 5969,
@@ -525,9 +525,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1767910,
-  "deletions": 213716,
-  "pushed_at": "2026-11-24T06:54:26Z"
+  "additions": 1770615,
+  "deletions": 213972,
+  "pushed_at": "2026-11-25T02:05:37Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -940,9 +940,9 @@
   "pushed_at": "2017-06-27T12:21:34Z"
  },
  "javis": {
-  "additions": 12549,
-  "deletions": 629,
-  "pushed_at": "2026-11-21T10:20:44Z"
+  "additions": 12698,
+  "deletions": 642,
+  "pushed_at": "2026-11-24T08:06:34Z"
  },
  "jelly-lab-web": {
   "additions": 58586,
@@ -1305,9 +1305,9 @@
   "pushed_at": "2026-11-22T08:05:23Z"
  },
  "sea-forager": {
-  "additions": 204696,
-  "deletions": 18008,
-  "pushed_at": "2026-11-24T04:50:19Z"
+  "additions": 211613,
+  "deletions": 18228,
+  "pushed_at": "2026-11-25T01:39:21Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1402,7 +1402,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-23T05:04:25Z"
+  "pushed_at": "2026-11-24T07:52:20Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1467,7 +1467,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-24T04:41:33Z"
+  "pushed_at": "2026-11-24T14:09:46Z"
  },
  "stock-girl-project": {
   "additions": 20424,
