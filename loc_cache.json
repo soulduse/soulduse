@@ -40,9 +40,9 @@
   "pushed_at": "2015-06-26T02:01:33Z"
  },
  "admob-pro": {
-  "additions": 254338,
-  "deletions": 62870,
-  "pushed_at": "2026-11-26T01:05:02Z"
+  "additions": 254475,
+  "deletions": 62907,
+  "pushed_at": "2026-11-26T14:42:34Z"
  },
  "admob-pro-android": {
   "additions": 31680,
@@ -60,9 +60,9 @@
   "pushed_at": "2026-11-17T04:58:55Z"
  },
  "admob-pro-server-py": {
-  "additions": 195086,
-  "deletions": 8560,
-  "pushed_at": "2026-11-26T03:14:34Z"
+  "additions": 196894,
+  "deletions": 8619,
+  "pushed_at": "2026-11-26T14:42:19Z"
  },
  "ads-lab": {
   "additions": 6079,
@@ -310,9 +310,9 @@
   "pushed_at": "2026-11-23T07:26:05Z"
  },
  "apis-py": {
-  "additions": 976545,
-  "deletions": 53591,
-  "pushed_at": "2026-11-26T05:54:22Z"
+  "additions": 980247,
+  "deletions": 53739,
+  "pushed_at": "2026-11-27T06:03:09Z"
  },
  "apis-py-swallow-wip": {
   "additions": 466987,
@@ -320,9 +320,9 @@
   "pushed_at": "2026-09-02T11:33:07Z"
  },
  "app-factory": {
-  "additions": 5227933,
-  "deletions": 596608,
-  "pushed_at": "2026-11-25T23:08:55Z"
+  "additions": 5228457,
+  "deletions": 596623,
+  "pushed_at": "2026-11-26T23:10:05Z"
  },
  "app-factory-meta": {
   "additions": 79625,
@@ -525,9 +525,9 @@
   "pushed_at": "2026-10-01T10:30:13Z"
  },
  "dark-slayer": {
-  "additions": 1773816,
-  "deletions": 214821,
-  "pushed_at": "2026-11-26T06:04:43Z"
+  "additions": 1776252,
+  "deletions": 215067,
+  "pushed_at": "2026-11-27T05:48:20Z"
  },
  "daum-stock-api-aws-lambda": {
   "additions": 108,
@@ -805,9 +805,9 @@
   "pushed_at": "2023-03-17T14:09:22Z"
  },
  "gwanjesil": {
-  "additions": 4949,
-  "deletions": 160,
-  "pushed_at": "2026-11-26T03:15:27Z"
+  "additions": 8185,
+  "deletions": 538,
+  "pushed_at": "2026-11-26T08:19:56Z"
  },
  "hangul-keyboard": {
   "additions": 11092,
@@ -940,9 +940,9 @@
   "pushed_at": "2017-06-27T12:21:34Z"
  },
  "javis": {
-  "additions": 14636,
-  "deletions": 750,
-  "pushed_at": "2026-11-26T03:15:25Z"
+  "additions": 14913,
+  "deletions": 830,
+  "pushed_at": "2026-11-26T09:05:22Z"
  },
  "jelly-lab-web": {
   "additions": 58586,
@@ -1305,9 +1305,9 @@
   "pushed_at": "2026-11-22T08:05:23Z"
  },
  "sea-forager": {
-  "additions": 211711,
-  "deletions": 18251,
-  "pushed_at": "2026-11-26T06:10:38Z"
+  "additions": 211811,
+  "deletions": 18262,
+  "pushed_at": "2026-11-27T03:04:14Z"
  },
  "seller-community": {
   "additions": 11361,
@@ -1402,7 +1402,7 @@
  "soulduse": {
   "additions": 2264,
   "deletions": 185,
-  "pushed_at": "2026-11-25T06:25:30Z"
+  "pushed_at": "2026-11-26T06:17:39Z"
  },
  "spellchecker": {
   "additions": 6125,
@@ -1440,9 +1440,9 @@
   "pushed_at": "2023-12-06T01:36:13Z"
  },
  "stack-defense": {
-  "additions": 294905,
-  "deletions": 28065,
-  "pushed_at": "2026-11-26T01:07:49Z"
+  "additions": 309013,
+  "deletions": 30013,
+  "pushed_at": "2026-11-27T04:36:35Z"
  },
  "stock-admin": {
   "additions": 31210,
@@ -1467,7 +1467,7 @@
  "stock-app-template": {
   "additions": 290055,
   "deletions": 92448,
-  "pushed_at": "2026-11-26T03:18:32Z"
+  "pushed_at": "2026-11-27T02:55:28Z"
  },
  "stock-girl-project": {
   "additions": 20424,
